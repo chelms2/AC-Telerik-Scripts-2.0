@@ -9,52 +9,26 @@
     "ProfilerBenchmarkResultsId": "00000000-0000-0000-0000-000000000000",
     "ProfilerConfigurationId": "00000000-0000-0000-0000-000000000000",
     "ProfilerConfigurations": {},
-    "CurrentReferences": [],
+    "CurrentReferences": [
+      "System",
+      "System.Core",
+      "ArtOfTest.WebAii, Version=2021.3.1103.0, Culture=neutral, PublicKeyToken=4fd5f65be123776c",
+      "ArtOfTest.WebAii.Messaging, Version=2021.3.1103.0, Culture=neutral, PublicKeyToken=4fd5f65be123776c",
+      "ArtOfTest.WebAii.Design, Version=2021.3.1103.0, Culture=neutral, PublicKeyToken=4fc62bbc3827ab1d",
+      "Telerik.WebAii.Controls.Html, Version=2021.3.1103.0, Culture=neutral, PublicKeyToken=528163f3e645de45",
+      "Telerik.WebAii.Controls.Xaml, Version=2021.3.1103.0, Culture=neutral, PublicKeyToken=528163f3e645de45",
+      "Telerik.WebAii.Controls.Xaml.Wpf, Version=2021.3.1103.0, Culture=neutral, PublicKeyToken=528163f3e645de45",
+      "Telerik.TestingFramework.Controls.KendoUI, Version=2021.3.1103.0, Culture=neutral, PublicKeyToken=528163f3e645de45",
+      "Telerik.TestingFramework.Controls.KendoUI.Angular, Version=2021.3.1103.0, Culture=neutral, PublicKeyToken=528163f3e645de45",
+      "Telerik.TestingFramework.Controls.TelerikUI.Blazor, Version=2021.3.1103.0, Culture=neutral, PublicKeyToken=528163f3e645de45",
+      "Telerik.TestStudio.Translators.Common, Version=2021.3.1103.0, Culture=neutral, PublicKeyToken=528163f3e645de45",
+      "System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "Microsoft.VisualBasic, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a",
+      "System.Net, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
     "Steps": {
       "__type": "ArtOfTest.Common.Design.ProjectModel.AutomationStepList",
       "__value": [
-        {
-          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
-          "__value": {
-            "Runtime ID": "d6b59e68-e973-4702-8642-270ca6dd8999",
-            "Description": "Execute test 'Open ZBIHTST'",
-            "CustomDescription": null,
-            "Step": {
-              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ExecuteTestActionDescriptor",
-              "__value": {
-                "WaitOnElementsTimeout": 0,
-                "UseStepWaitOnElementsTimout": false,
-                "WaitOnElements": false,
-                "SearchByImageFirst": 0,
-                "TestName": "Open ZBIHTST",
-                "TestPath": "Open ZBIHTST.tstest",
-                "TestUniqueId": "e087ac82-a0d7-4497-973d-0b17a9bd479a",
-                "Pause": 0,
-                "RunsAgainstVersion": "",
-                "Constraints": {
-                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
-                  "__value": {
-                    "ConstraintValues": {}
-                  }
-                },
-                "Elements": {},
-                "StepType": 4,
-                "LogMessageOnFailure": "",
-                "EditorType": "",
-                "DataBindingExpressions": {}
-              }
-            },
-            "Enabled": true,
-            "Order": 1,
-            "Id": "",
-            "StepState": 0,
-            "ContinueOnFailure": false,
-            "StepImageKey": "ZBHRTST - SYSAUDITpiqnyb0n.zzs",
-            "QcId": 0,
-            "QcVersionStamp": 0,
-            "Version": 200
-          }
-        },
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
@@ -85,7 +59,7 @@
               }
             },
             "Enabled": true,
-            "Order": 2,
+            "Order": 1,
             "Id": "",
             "StepState": 0,
             "ContinueOnFailure": false,
@@ -127,7 +101,7 @@
               }
             },
             "Enabled": true,
-            "Order": 3,
+            "Order": 2,
             "Id": "",
             "StepState": 0,
             "ContinueOnFailure": false,
@@ -167,7 +141,7 @@
               }
             },
             "Enabled": true,
-            "Order": 4,
+            "Order": 3,
             "Id": "",
             "StepState": 0,
             "ContinueOnFailure": false,
@@ -209,7 +183,7 @@
               }
             },
             "Enabled": true,
-            "Order": 5,
+            "Order": 4,
             "Id": "",
             "StepState": 0,
             "ContinueOnFailure": false,
@@ -249,7 +223,7 @@
               }
             },
             "Enabled": true,
-            "Order": 6,
+            "Order": 5,
             "Id": "",
             "StepState": 0,
             "ContinueOnFailure": false,
@@ -294,7 +268,7 @@
               }
             },
             "Enabled": true,
-            "Order": 7,
+            "Order": 6,
             "Id": "",
             "StepState": 0,
             "ContinueOnFailure": false,
