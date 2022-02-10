@@ -1,0 +1,2173 @@
+{
+  "__type": "ArtOfTest.WebAii.Design.ProjectModel.Test",
+  "__value": {
+    "DomStatesCounter": {},
+    "WebKitExecutionDelay": 0,
+    "ReuseAppWindow": 0,
+    "ProfilerResultsDirectory": null,
+    "ProfilerBenchmarkResultsFilePath": null,
+    "ProfilerBenchmarkResultsId": "00000000-0000-0000-0000-000000000000",
+    "ProfilerConfigurationId": "00000000-0000-0000-0000-000000000000",
+    "ProfilerConfigurations": {},
+    "CurrentReferences": [
+      "System",
+      "System.Core",
+      "ArtOfTest.WebAii, Version=2021.2.809.0, Culture=neutral, PublicKeyToken=4fd5f65be123776c",
+      "ArtOfTest.WebAii.Messaging, Version=2021.2.809.0, Culture=neutral, PublicKeyToken=4fd5f65be123776c",
+      "ArtOfTest.WebAii.Design, Version=2021.2.809.0, Culture=neutral, PublicKeyToken=4fc62bbc3827ab1d",
+      "Telerik.WebAii.Controls.Html, Version=2021.2.809.0, Culture=neutral, PublicKeyToken=528163f3e645de45",
+      "Telerik.WebAii.Controls.Xaml, Version=2021.2.809.0, Culture=neutral, PublicKeyToken=528163f3e645de45",
+      "Telerik.WebAii.Controls.Xaml.Wpf, Version=2021.2.809.0, Culture=neutral, PublicKeyToken=528163f3e645de45",
+      "Telerik.TestingFramework.Controls.KendoUI, Version=2021.2.809.0, Culture=neutral, PublicKeyToken=528163f3e645de45",
+      "Telerik.TestingFramework.Controls.KendoUI.Angular, Version=2021.2.809.0, Culture=neutral, PublicKeyToken=528163f3e645de45",
+      "Telerik.TestingFramework.Controls.TelerikUI.Blazor, Version=2021.2.809.0, Culture=neutral, PublicKeyToken=528163f3e645de45",
+      "Telerik.TestStudio.Translators.Common, Version=2021.2.809.0, Culture=neutral, PublicKeyToken=528163f3e645de45",
+      "System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "Microsoft.VisualBasic, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a",
+      "System.Net, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "Steps": {
+      "__type": "ArtOfTest.Common.Design.ProjectModel.AutomationStepList",
+      "__value": [
+        {
+          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+          "__value": {
+            "Runtime ID": "31f27008-3927-4c81-9122-43dc643609cb",
+            "Description": "Execute test 'Open ZAIHTST'",
+            "CustomDescription": null,
+            "Step": {
+              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ExecuteTestActionDescriptor",
+              "__value": {
+                "WaitOnElementsTimeout": 0,
+                "UseStepWaitOnElementsTimout": false,
+                "WaitOnElements": false,
+                "SearchByImageFirst": 0,
+                "TestName": "Open ZAIHTST",
+                "TestPath": "Open ZAIHTST.tstest",
+                "TestUniqueId": "54f6d1f0-3953-46b6-bc48-90c1e3f9975b",
+                "Pause": 0,
+                "RunsAgainstVersion": "",
+                "Constraints": {
+                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                  "__value": {
+                    "ConstraintValues": {}
+                  }
+                },
+                "Elements": {},
+                "StepType": 4,
+                "LogMessageOnFailure": "",
+                "EditorType": "",
+                "DataBindingExpressions": {}
+              }
+            },
+            "Enabled": true,
+            "Order": 1,
+            "Id": "",
+            "StepState": 0,
+            "ContinueOnFailure": false,
+            "StepImageKey": "ZAHRTST - DDDAUDITcyxwskj0.js5",
+            "QcId": 0,
+            "QcVersionStamp": 0,
+            "Version": 200
+          }
+        },
+        {
+          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+          "__value": {
+            "Runtime ID": "273419e2-872e-4e5d-9183-c9da9c5f436f",
+            "Description": "Execute test 'General User Login'",
+            "CustomDescription": null,
+            "Step": {
+              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ExecuteTestActionDescriptor",
+              "__value": {
+                "WaitOnElementsTimeout": 0,
+                "UseStepWaitOnElementsTimout": false,
+                "WaitOnElements": false,
+                "SearchByImageFirst": 0,
+                "TestName": "General User Login",
+                "TestPath": "General User Login.tstest",
+                "TestUniqueId": "7e4cb1a9-f354-4a75-81fb-ea45d9f51080",
+                "Pause": 0,
+                "RunsAgainstVersion": "",
+                "Constraints": {
+                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                  "__value": {
+                    "ConstraintValues": {}
+                  }
+                },
+                "Elements": {},
+                "StepType": 4,
+                "LogMessageOnFailure": "",
+                "EditorType": "",
+                "DataBindingExpressions": {}
+              }
+            },
+            "Enabled": true,
+            "Order": 2,
+            "Id": "",
+            "StepState": 0,
+            "ContinueOnFailure": false,
+            "StepImageKey": "ZAHRTST - DDDAUDITwdg4noxy.2uv",
+            "QcId": 0,
+            "QcVersionStamp": 0,
+            "Version": 200
+          }
+        },
+        {
+          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+          "__value": {
+            "Runtime ID": "49f9ed97-d2bf-4a93-afd4-5e6b41657fc1",
+            "Description": "Wait for '500' msec.",
+            "CustomDescription": null,
+            "Step": {
+              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.SleepActionDescriptor",
+              "__value": {
+                "WaitTime": 500,
+                "WaitOnElements": true,
+                "WaitOnElementsTimeout": 30000,
+                "UseStepWaitOnElementsTimout": false,
+                "SearchByImageFirst": 0,
+                "Pause": 0,
+                "RunsAgainstVersion": "",
+                "Constraints": {
+                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                  "__value": {
+                    "ConstraintValues": {}
+                  }
+                },
+                "Elements": {},
+                "StepType": 4,
+                "LogMessageOnFailure": "",
+                "EditorType": "",
+                "DataBindingExpressions": {}
+              }
+            },
+            "Enabled": true,
+            "Order": 3,
+            "Id": "",
+            "StepState": 0,
+            "ContinueOnFailure": false,
+            "StepImageKey": "ZAHRTST - DDDAUDITnpa53ukf.uo2",
+            "QcId": 0,
+            "QcVersionStamp": 0,
+            "Version": 200
+          }
+        },
+        {
+          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+          "__value": {
+            "Runtime ID": "12473aca-b509-43a5-b6ea-d08702f4528b",
+            "Description": "Navigate to : '/psp/ZAIHTST/EMPLOYEE/HRMS/c/PROCESS_SCHEDULER.PRCSMULTI.GBL?cmd=uninav&Rnode=HRMS&uninavpath=Root%7bPORTAL_ROOT_OBJECT%7d.NO_CRUMB%7bPTUN_11362845700088328%2cPORTAL_ROOT_OBJECT%7d.System%20Process%20Requests%7bPT_PRCSMULTI_GBL%7d'",
+            "CustomDescription": "Navigate to ZAHRTST Process Scheduler",
+            "Step": {
+              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.NavigateToActionDescriptor",
+              "__value": {
+                "UseDecodedUrl": true,
+                "NavigateURL": "/psp/ZAIHTST/EMPLOYEE/HRMS/c/PROCESS_SCHEDULER.PRCSMULTI.GBL?cmd=uninav&Rnode=HRMS&uninavpath=Root%7bPORTAL_ROOT_OBJECT%7d.NO_CRUMB%7bPTUN_11362845700088328%2cPORTAL_ROOT_OBJECT%7d.System%20Process%20Requests%7bPT_PRCSMULTI_GBL%7d",
+                "BaseUrl": "https://zaih-tst.utshare.utsystem.edu",
+                "SearchByImageFirst": 0,
+                "WaitOnElementsTimeout": 0,
+                "UseStepWaitOnElementsTimout": false,
+                "WaitOnElements": false,
+                "UsejQuery": false,
+                "ClosesBrowser": false,
+                "AjaxTimeout": 0,
+                "Pause": 0,
+                "RunsAgainstVersion": "",
+                "Constraints": {
+                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                  "__value": {
+                    "ConstraintValues": {}
+                  }
+                },
+                "Elements": {},
+                "StepType": 4,
+                "LogMessageOnFailure": "",
+                "EditorType": "",
+                "DataBindingExpressions": {}
+              }
+            },
+            "Enabled": true,
+            "Order": 4,
+            "Id": "",
+            "StepState": 0,
+            "ContinueOnFailure": false,
+            "StepImageKey": "ZAHRTST - DDDAUDIT3j00hdax.myu",
+            "QcId": 0,
+            "QcVersionStamp": 0,
+            "Version": 200
+          }
+        },
+        {
+          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+          "__value": {
+            "Runtime ID": "27cdbff0-bd3a-4476-987c-936fad745c2f",
+            "Description": "Wait for '500' msec.",
+            "CustomDescription": null,
+            "Step": {
+              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.SleepActionDescriptor",
+              "__value": {
+                "WaitTime": 500,
+                "WaitOnElements": true,
+                "WaitOnElementsTimeout": 30000,
+                "UseStepWaitOnElementsTimout": false,
+                "SearchByImageFirst": 0,
+                "Pause": 0,
+                "RunsAgainstVersion": "",
+                "Constraints": {
+                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                  "__value": {
+                    "ConstraintValues": {}
+                  }
+                },
+                "Elements": {},
+                "StepType": 4,
+                "LogMessageOnFailure": "",
+                "EditorType": "",
+                "DataBindingExpressions": {}
+              }
+            },
+            "Enabled": true,
+            "Order": 5,
+            "Id": "",
+            "StepState": 0,
+            "ContinueOnFailure": false,
+            "StepImageKey": "ZAHRTST - DDDAUDIT20j0qqsf.kfa",
+            "QcId": 0,
+            "QcVersionStamp": 0,
+            "Version": 200
+          }
+        },
+        {
+          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+          "__value": {
+            "Runtime ID": "01a4394e-ae9d-403d-8c86-e636f1baf94e",
+            "Description": "Enter text 'CH_TELERIKSCRIPT_TEST' in 'PRCSRUNCNTLRUNCNTLIDText'",
+            "CustomDescription": null,
+            "Step": {
+              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.SetTextActionDescriptor",
+              "__value": {
+                "RawText": "CH_TELERIKSCRIPT_TEST",
+                "SimulateRealTyping": true,
+                "TypingSpeed": 50,
+                "KeyHoldTime": 100,
+                "IsPassword": false,
+                "TypingInfo": {
+                  "ElementText": "",
+                  "TypedText": "CapsLock",
+                  "CaretPosition": 0,
+                  "IsTextArea": false,
+                  "IsBackSpace": false
+                },
+                "Encrypt": false,
+                "SupportUnicode": true,
+                "ScrollToVisibleType": 2,
+                "UsejQuery": false,
+                "ClosesBrowser": false,
+                "AjaxTimeout": 0,
+                "Pause": 0,
+                "WaitOnElementsTimeout": 30000,
+                "SearchByImageFirst": 0,
+                "UseStepWaitOnElementsTimout": false,
+                "WaitOnElements": true,
+                "RunsAgainstVersion": "",
+                "Constraints": {
+                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                  "__value": {
+                    "ConstraintValues": {}
+                  }
+                },
+                "Elements": {
+                  "textTarget": {
+                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
+                    "__value": {
+                      "Name": "textTarget",
+                      "Region": null,
+                      "Page": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
+                        "__value": {
+                          "Path": "https://zaih-tst.utshare.utsystem.edu/psp/ZAIHTST/EMPLOYEE/HRMS/c/PROCESS_SCHEDULER.PRCSMULTI.GBL",
+                          "Query": "?cmd=uninav&Rnode=HRMS&uninavpath=Root%7BPORTAL_ROOT_OBJECT%7D.NO_CRUMB%7BPTUN_11362845700088328,PORTAL_ROOT_OBJECT%7D.System%20Process%20Requests%7BPT_PRCSMULTI_GBL%7D",
+                          "BaseUrl": "",
+                          "EquivalentUrls": [],
+                          "Fragment": "",
+                          "Title": "System Process Requests",
+                          "CompareMode": 0,
+                          "AlwaysUseTitleInCompare": false,
+                          "FriendlyName": "SystemProcessRequests13"
+                        }
+                      },
+                      "Frame": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.Frame",
+                        "__value": {
+                          "FrameInfo": {
+                            "__type": "ArtOfTest.WebAii.Core.FrameInfo",
+                            "__value": {
+                              "_index": 0,
+                              "_name": "TargetContent",
+                              "_id": "ptifrmtgtframe",
+                              "TestStudioTag": "",
+                              "_baseURL": "https://zahr-tst.utshare.utsystem.edu/psc/ZAHRTST/EMPLOYEE/HRMS/c/PROCESS_SCHEDULER.PRCSMULTI.GBL",
+                              "_query": "cmd=uninav&Rnode=HRMS&uninavpath=Root{PORTAL_ROOT_OBJECT}.NO_CRUMB{PTUN_11362845700088328,PORTAL_ROOT_OBJECT}.System Process Requests{PT_PRCSMULTI_GBL}&PortalActualURL=https://zahr-tst.utshare.utsystem.edu/psc/ZAHRTST/EMPLOYEE/HRMS/c/PROCESS_SCHEDULER.PRCSMULTI.GBL?cmd=uninav&Rnode=HRMS&uninavpath=Root{PORTAL_ROOT_OBJECT}.NO_CRUMB{PTUN_11362845700088328,PORTAL_ROOT_OBJECT}.System%20Process%20Requests{PT_PRCSMULTI_GBL}&PortalRegistryName=EMPLOYEE&PortalServletURI=https://zaih-tst.utshare.utsystem.edu/psp/ZAIHTST/&PortalURI=https://zaih-tst.utshare.utsystem.edu/psc/ZAIHTST/&PortalHostNode=EMPL&NoCrumbs=yes",
+                              "_useQuery": false,
+                              "_usesBaseUrlHost": false
+                            }
+                          },
+                          "FriendlyName": "FramePtifrmtgtframe"
+                        }
+                      },
+                      "FindExpression": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
+                        "__value": {
+                          "uniqueKey": "Cew60MbBNvEjr+bSv3MvYVbcHPw=",
+                          "NodeKind": 4,
+                          "TechnologyType": 1,
+                          "Name": "PRCSRUNCNTLRUNCNTLIDText",
+                          "FindExpressions": [
+                            {
+                              "Key": 1,
+                              "Value": {
+                                "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
+                                "__value": {
+                                  "Clauses": [
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "id=PRCSRUNCNTL_RUN_CNTL_ID"
+                                      }
+                                    },
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "tagname=input"
+                                      }
+                                    }
+                                  ],
+                                  "Constraints": [],
+                                  "ChainStops": []
+                                }
+                              }
+                            }
+                          ],
+                          "BackupSearchClause": "/html[1]/body[1]/form[1]/div[5]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/table[1]/tbody[1]/tr[1]/td[3]/div[1]/input[1]",
+                          "ImageSearchClauses": [
+                            {
+                              "__type": "ArtOfTest.Common.ImageSearchClause",
+                              "__value": {
+                                "Resolution": "1920, 1080",
+                                "BroweserType": 7,
+                                "Image": "627B3BE27EAA9ACE975BFABAEEAE228CDB007DB64593B1CBC9B2467CA59B12D9",
+                                "Index": 0,
+                                "MatchThreshold": 90,
+                                "OsVersion": "10.0.19043.0",
+                                "ScreenScale": 1.0,
+                                "ScrollOnImageSearch": null
+                              }
+                            }
+                          ],
+                          "DataBindingExpressions": {}
+                        }
+                      },
+                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlInputText",
+                      "IsIndependent": false,
+                      "DomStateKey": "",
+                      "TechnologyType": 1,
+                      "Version": 200
+                    }
+                  }
+                },
+                "StepType": 4,
+                "LogMessageOnFailure": "",
+                "EditorType": "",
+                "DataBindingExpressions": {},
+                "_canEncrypt": false,
+                "_cipher": null
+              }
+            },
+            "Enabled": true,
+            "Order": 6,
+            "Id": "",
+            "StepState": 0,
+            "ContinueOnFailure": false,
+            "StepImageKey": "ZAHRTST - DDDAUDITyajw3pf2.lik",
+            "QcId": 0,
+            "QcVersionStamp": 0,
+            "Version": 200
+          }
+        },
+        {
+          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+          "__value": {
+            "Runtime ID": "3213a728-4392-4b7c-bbb5-919d277edb9e",
+            "Description": "Wait for '500' msec.",
+            "CustomDescription": null,
+            "Step": {
+              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.SleepActionDescriptor",
+              "__value": {
+                "WaitTime": 500,
+                "WaitOnElements": true,
+                "WaitOnElementsTimeout": 30000,
+                "UseStepWaitOnElementsTimout": false,
+                "SearchByImageFirst": 0,
+                "Pause": 0,
+                "RunsAgainstVersion": "",
+                "Constraints": {
+                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                  "__value": {
+                    "ConstraintValues": {}
+                  }
+                },
+                "Elements": {},
+                "StepType": 4,
+                "LogMessageOnFailure": "",
+                "EditorType": "",
+                "DataBindingExpressions": {}
+              }
+            },
+            "Enabled": true,
+            "Order": 7,
+            "Id": "",
+            "StepState": 0,
+            "ContinueOnFailure": false,
+            "StepImageKey": "ZAHRTST - DDDAUDITa4zpkddh.vly",
+            "QcId": 0,
+            "QcVersionStamp": 0,
+            "Version": 200
+          }
+        },
+        {
+          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+          "__value": {
+            "Runtime ID": "e59a77bb-b9e9-4772-96ca-a14f97bbe603",
+            "Description": "Click 'PRCSRQSTDLGWRKLOADPRCSRQSTDLGPBButton'",
+            "CustomDescription": null,
+            "Step": {
+              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ClickActionDescriptor",
+              "__value": {
+                "SimulateRealClick": true,
+                "ScrollToVisibleType": 2,
+                "UsejQuery": false,
+                "ClosesBrowser": false,
+                "AjaxTimeout": 0,
+                "Pause": 0,
+                "WaitOnElementsTimeout": 30000,
+                "SearchByImageFirst": 0,
+                "UseStepWaitOnElementsTimout": false,
+                "WaitOnElements": true,
+                "RunsAgainstVersion": "",
+                "Constraints": {
+                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                  "__value": {
+                    "ConstraintValues": {}
+                  }
+                },
+                "Elements": {
+                  "target": {
+                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
+                    "__value": {
+                      "Name": "target",
+                      "Region": null,
+                      "Page": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
+                        "__value": {
+                          "Path": "https://zaih-tst.utshare.utsystem.edu/psp/ZAIHTST/EMPLOYEE/HRMS/c/PROCESS_SCHEDULER.PRCSMULTI.GBL",
+                          "Query": "?cmd=uninav&Rnode=HRMS&uninavpath=Root%7BPORTAL_ROOT_OBJECT%7D.NO_CRUMB%7BPTUN_11362845700088328,PORTAL_ROOT_OBJECT%7D.System%20Process%20Requests%7BPT_PRCSMULTI_GBL%7D",
+                          "BaseUrl": "",
+                          "EquivalentUrls": [],
+                          "Fragment": "",
+                          "Title": "System Process Requests",
+                          "CompareMode": 0,
+                          "AlwaysUseTitleInCompare": false,
+                          "FriendlyName": "SystemProcessRequests14"
+                        }
+                      },
+                      "Frame": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.Frame",
+                        "__value": {
+                          "FrameInfo": {
+                            "__type": "ArtOfTest.WebAii.Core.FrameInfo",
+                            "__value": {
+                              "_index": 0,
+                              "_name": "TargetContent",
+                              "_id": "ptifrmtgtframe",
+                              "TestStudioTag": "",
+                              "_baseURL": "https://zahr-tst.utshare.utsystem.edu/psc/ZAHRTST/EMPLOYEE/HRMS/c/PROCESS_SCHEDULER.PRCSMULTI.GBL",
+                              "_query": "cmd=uninav&Rnode=HRMS&uninavpath=Root{PORTAL_ROOT_OBJECT}.NO_CRUMB{PTUN_11362845700088328,PORTAL_ROOT_OBJECT}.System Process Requests{PT_PRCSMULTI_GBL}&PortalActualURL=https://zahr-tst.utshare.utsystem.edu/psc/ZAHRTST/EMPLOYEE/HRMS/c/PROCESS_SCHEDULER.PRCSMULTI.GBL?cmd=uninav&Rnode=HRMS&uninavpath=Root{PORTAL_ROOT_OBJECT}.NO_CRUMB{PTUN_11362845700088328,PORTAL_ROOT_OBJECT}.System%20Process%20Requests{PT_PRCSMULTI_GBL}&PortalRegistryName=EMPLOYEE&PortalServletURI=https://zaih-tst.utshare.utsystem.edu/psp/ZAIHTST/&PortalURI=https://zaih-tst.utshare.utsystem.edu/psc/ZAIHTST/&PortalHostNode=EMPL&NoCrumbs=yes",
+                              "_useQuery": false,
+                              "_usesBaseUrlHost": false
+                            }
+                          },
+                          "FriendlyName": "FramePtifrmtgtframe"
+                        }
+                      },
+                      "FindExpression": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
+                        "__value": {
+                          "uniqueKey": null,
+                          "NodeKind": 4,
+                          "TechnologyType": 1,
+                          "Name": "PRCSRQSTDLGWRKLOADPRCSRQSTDLGPBButton",
+                          "FindExpressions": [
+                            {
+                              "Key": 1,
+                              "Value": {
+                                "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
+                                "__value": {
+                                  "Clauses": [
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "id=PRCSRQSTDLG_WRK_LOADPRCSRQSTDLGPB"
+                                      }
+                                    },
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "tagname=input"
+                                      }
+                                    }
+                                  ],
+                                  "Constraints": [],
+                                  "ChainStops": []
+                                }
+                              }
+                            }
+                          ],
+                          "BackupSearchClause": "/html[1]/body[1]/form[1]/div[5]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/table[1]/tbody[1]/tr[2]/td[2]/div[1]/a[1]/span[1]/input[1]",
+                          "ImageSearchClauses": [
+                            {
+                              "__type": "ArtOfTest.Common.ImageSearchClause",
+                              "__value": {
+                                "Resolution": "1920, 1080",
+                                "BroweserType": 7,
+                                "Image": "43E409CF9B06C7A16E4F6EDB3C59E36F501E3612243FF59297A581408F40E1FE",
+                                "Index": 0,
+                                "MatchThreshold": 90,
+                                "OsVersion": "10.0.19043.0",
+                                "ScreenScale": 1.0,
+                                "ScrollOnImageSearch": null
+                              }
+                            }
+                          ],
+                          "DataBindingExpressions": {}
+                        }
+                      },
+                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlInputButton",
+                      "IsIndependent": false,
+                      "DomStateKey": "",
+                      "TechnologyType": 1,
+                      "Version": 200
+                    }
+                  }
+                },
+                "StepType": 4,
+                "LogMessageOnFailure": "",
+                "EditorType": "",
+                "DataBindingExpressions": {}
+              }
+            },
+            "Enabled": true,
+            "Order": 8,
+            "Id": "",
+            "StepState": 0,
+            "ContinueOnFailure": false,
+            "StepImageKey": "ZAHRTST - DDDAUDITna2pyys4.i5l",
+            "QcId": 0,
+            "QcVersionStamp": 0,
+            "Version": 200
+          }
+        },
+        {
+          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+          "__value": {
+            "Runtime ID": "b1aba93c-5975-4399-b526-5836c6c7de6c",
+            "Description": "Wait for '500' msec.",
+            "CustomDescription": null,
+            "Step": {
+              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.SleepActionDescriptor",
+              "__value": {
+                "WaitTime": 500,
+                "WaitOnElements": true,
+                "WaitOnElementsTimeout": 30000,
+                "UseStepWaitOnElementsTimout": false,
+                "SearchByImageFirst": 0,
+                "Pause": 0,
+                "RunsAgainstVersion": "",
+                "Constraints": {
+                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                  "__value": {
+                    "ConstraintValues": {}
+                  }
+                },
+                "Elements": {},
+                "StepType": 4,
+                "LogMessageOnFailure": "",
+                "EditorType": "",
+                "DataBindingExpressions": {}
+              }
+            },
+            "Enabled": true,
+            "Order": 9,
+            "Id": "",
+            "StepState": 0,
+            "ContinueOnFailure": false,
+            "StepImageKey": "ZAHRTST - DDDAUDITdxrasss2.hdh",
+            "QcId": 0,
+            "QcVersionStamp": 0,
+            "Version": 200
+          }
+        },
+        {
+          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+          "__value": {
+            "Runtime ID": "b24885bb-23ee-4b75-a6cc-63b31aef187c",
+            "Description": "Check 'PRCSRQSTDLGWRKSELECTFLAG10CheckBox' to be 'True'",
+            "CustomDescription": null,
+            "Step": {
+              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.CheckActionDescriptor",
+              "__value": {
+                "CheckedState": true,
+                "InvokeOnClick": false,
+                "InvokeOnChange": false,
+                "UsejQuery": false,
+                "ClosesBrowser": false,
+                "AjaxTimeout": 0,
+                "Pause": 0,
+                "WaitOnElementsTimeout": 30000,
+                "SearchByImageFirst": 0,
+                "UseStepWaitOnElementsTimout": false,
+                "WaitOnElements": true,
+                "RunsAgainstVersion": "",
+                "Constraints": {
+                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                  "__value": {
+                    "ConstraintValues": {}
+                  }
+                },
+                "Elements": {
+                  "checkBox": {
+                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
+                    "__value": {
+                      "Name": "checkBox",
+                      "Region": null,
+                      "Page": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
+                        "__value": {
+                          "Path": "https://zaih-tst.utshare.utsystem.edu/psp/ZAIHTST/EMPLOYEE/HRMS/c/PROCESS_SCHEDULER.PRCSMULTI.GBL",
+                          "Query": "?cmd=uninav&Rnode=HRMS&uninavpath=Root%7BPORTAL_ROOT_OBJECT%7D.NO_CRUMB%7BPTUN_11362845700088328,PORTAL_ROOT_OBJECT%7D.System%20Process%20Requests%7BPT_PRCSMULTI_GBL%7D",
+                          "BaseUrl": "",
+                          "EquivalentUrls": [],
+                          "Fragment": "",
+                          "Title": "System Process Requests",
+                          "CompareMode": 0,
+                          "AlwaysUseTitleInCompare": false,
+                          "FriendlyName": "SystemProcessRequests19"
+                        }
+                      },
+                      "Frame": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.Frame",
+                        "__value": {
+                          "FrameInfo": {
+                            "__type": "ArtOfTest.WebAii.Core.FrameInfo",
+                            "__value": {
+                              "_index": 1,
+                              "_name": "ptModFrame_0",
+                              "_id": "ptModFrame_0",
+                              "TestStudioTag": "",
+                              "_baseURL": "https://zahr-tst.utshare.utsystem.edu/psc/ZAHRTST/EMPLOYEE/HRMS/c/PROCESS_SCHEDULER.PRCSMULTI.GBL",
+                              "_query": "ICType=Panel&ICElementNum=0&ICStateNum=2&ICResubmit=1&ICAJAX=1&",
+                              "_useQuery": false,
+                              "_usesBaseUrlHost": false
+                            }
+                          },
+                          "FriendlyName": "FramePtModFrame0"
+                        }
+                      },
+                      "FindExpression": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
+                        "__value": {
+                          "uniqueKey": null,
+                          "NodeKind": 4,
+                          "TechnologyType": 1,
+                          "Name": "PRCSRQSTDLGWRKSELECTFLAG10CheckBox",
+                          "FindExpressions": [
+                            {
+                              "Key": 1,
+                              "Value": {
+                                "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
+                                "__value": {
+                                  "Clauses": [
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "id=PRCSRQSTDLG_WRK_SELECT_FLAG$10"
+                                      }
+                                    },
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "tagname=input"
+                                      }
+                                    }
+                                  ],
+                                  "Constraints": [],
+                                  "ChainStops": []
+                                }
+                              }
+                            }
+                          ],
+                          "BackupSearchClause": "/html[1]/body[1]/form[1]/div[4]/div[1]/table[1]/tbody[1]/tr[13]/td[2]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/table[1]/tbody[1]/tr[12]/td[1]/div[1]/input[2]",
+                          "ImageSearchClauses": [
+                            {
+                              "__type": "ArtOfTest.Common.ImageSearchClause",
+                              "__value": {
+                                "Resolution": "1920, 1080",
+                                "BroweserType": 7,
+                                "Image": "5A2506BB95DC88D746B33907EFF43A8C48955AD854FD03725D8FA1898E7D629F",
+                                "Index": 10,
+                                "MatchThreshold": 90,
+                                "OsVersion": "10.0.19043.0",
+                                "ScreenScale": 1.0,
+                                "ScrollOnImageSearch": null
+                              }
+                            }
+                          ],
+                          "DataBindingExpressions": {}
+                        }
+                      },
+                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlInputCheckBox",
+                      "IsIndependent": false,
+                      "DomStateKey": "",
+                      "TechnologyType": 1,
+                      "Version": 200
+                    }
+                  }
+                },
+                "StepType": 4,
+                "LogMessageOnFailure": "",
+                "EditorType": "",
+                "DataBindingExpressions": {}
+              }
+            },
+            "Enabled": true,
+            "Order": 10,
+            "Id": "",
+            "StepState": 0,
+            "ContinueOnFailure": false,
+            "StepImageKey": "ZAHRTST - DDDAUDITb1s3mz0t.40f",
+            "QcId": 0,
+            "QcVersionStamp": 0,
+            "Version": 200
+          }
+        },
+        {
+          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+          "__value": {
+            "Runtime ID": "1f41bf11-da11-4b78-8008-906e5a7af2dc",
+            "Description": "Wait for '500' msec.",
+            "CustomDescription": null,
+            "Step": {
+              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.SleepActionDescriptor",
+              "__value": {
+                "WaitTime": 500,
+                "WaitOnElements": true,
+                "WaitOnElementsTimeout": 30000,
+                "UseStepWaitOnElementsTimout": false,
+                "SearchByImageFirst": 0,
+                "Pause": 0,
+                "RunsAgainstVersion": "",
+                "Constraints": {
+                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                  "__value": {
+                    "ConstraintValues": {}
+                  }
+                },
+                "Elements": {},
+                "StepType": 4,
+                "LogMessageOnFailure": "",
+                "EditorType": "",
+                "DataBindingExpressions": {}
+              }
+            },
+            "Enabled": true,
+            "Order": 11,
+            "Id": "",
+            "StepState": 0,
+            "ContinueOnFailure": false,
+            "StepImageKey": "ZAHRTST - DDDAUDITfnvzgpez.mqc",
+            "QcId": 0,
+            "QcVersionStamp": 0,
+            "Version": 200
+          }
+        },
+        {
+          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+          "__value": {
+            "Runtime ID": "6ba8f163-0f75-44d0-a9af-34c7eb25523e",
+            "Description": "Click 'ProcessListDiv'",
+            "CustomDescription": null,
+            "Step": {
+              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ClickActionDescriptor",
+              "__value": {
+                "SimulateRealClick": true,
+                "ScrollToVisibleType": 2,
+                "UsejQuery": false,
+                "ClosesBrowser": false,
+                "AjaxTimeout": 0,
+                "Pause": 0,
+                "WaitOnElementsTimeout": 30000,
+                "SearchByImageFirst": 0,
+                "UseStepWaitOnElementsTimout": false,
+                "WaitOnElements": true,
+                "RunsAgainstVersion": "",
+                "Constraints": {
+                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                  "__value": {
+                    "ConstraintValues": {}
+                  }
+                },
+                "Elements": {
+                  "target": {
+                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
+                    "__value": {
+                      "Name": "target",
+                      "Region": null,
+                      "Page": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
+                        "__value": {
+                          "Path": "https://zaih-tst.utshare.utsystem.edu/psp/ZAIHTST/EMPLOYEE/HRMS/c/PROCESS_SCHEDULER.PRCSMULTI.GBL",
+                          "Query": "?cmd=uninav&Rnode=HRMS&uninavpath=Root%7BPORTAL_ROOT_OBJECT%7D.NO_CRUMB%7BPTUN_11362845700088328,PORTAL_ROOT_OBJECT%7D.System%20Process%20Requests%7BPT_PRCSMULTI_GBL%7D",
+                          "BaseUrl": "",
+                          "EquivalentUrls": [],
+                          "Fragment": "",
+                          "Title": "System Process Requests",
+                          "CompareMode": 0,
+                          "AlwaysUseTitleInCompare": false,
+                          "FriendlyName": "SystemProcessRequests23"
+                        }
+                      },
+                      "Frame": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.Frame",
+                        "__value": {
+                          "FrameInfo": {
+                            "__type": "ArtOfTest.WebAii.Core.FrameInfo",
+                            "__value": {
+                              "_index": 1,
+                              "_name": "ptModFrame_0",
+                              "_id": "ptModFrame_0",
+                              "TestStudioTag": "",
+                              "_baseURL": "https://zahr-tst.utshare.utsystem.edu/psc/ZAHRTST/EMPLOYEE/HRMS/c/PROCESS_SCHEDULER.PRCSMULTI.GBL",
+                              "_query": "ICType=Panel&ICElementNum=0&ICStateNum=2&ICResubmit=1&ICAJAX=1&",
+                              "_useQuery": false,
+                              "_usesBaseUrlHost": false
+                            }
+                          },
+                          "FriendlyName": "FramePtModFrame0"
+                        }
+                      },
+                      "FindExpression": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
+                        "__value": {
+                          "uniqueKey": null,
+                          "NodeKind": 4,
+                          "TechnologyType": 1,
+                          "Name": "ProcessListDiv",
+                          "FindExpressions": [
+                            {
+                              "Key": 1,
+                              "Value": {
+                                "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
+                                "__value": {
+                                  "Clauses": [
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "TextContent=Process List"
+                                      }
+                                    },
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "tagname=div"
+                                      }
+                                    }
+                                  ],
+                                  "Constraints": [],
+                                  "ChainStops": []
+                                }
+                              }
+                            }
+                          ],
+                          "BackupSearchClause": "/html[1]/body[1]/form[1]/div[4]/div[1]/table[1]/tbody[1]/tr[13]/td[2]/div[1]/div[1]",
+                          "ImageSearchClauses": [
+                            {
+                              "__type": "ArtOfTest.Common.ImageSearchClause",
+                              "__value": {
+                                "Resolution": "1920, 1080",
+                                "BroweserType": 7,
+                                "Image": "0E86E5C423D43B17D06D7044BC362F8B45B872851C2EE7D06BC9B94F35CF5D7E",
+                                "Index": 0,
+                                "MatchThreshold": 90,
+                                "OsVersion": "10.0.19043.0",
+                                "ScreenScale": 1.0,
+                                "ScrollOnImageSearch": null
+                              }
+                            }
+                          ],
+                          "DataBindingExpressions": {}
+                        }
+                      },
+                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlDiv",
+                      "IsIndependent": false,
+                      "DomStateKey": "",
+                      "TechnologyType": 1,
+                      "Version": 200
+                    }
+                  }
+                },
+                "StepType": 4,
+                "LogMessageOnFailure": "",
+                "EditorType": "",
+                "DataBindingExpressions": {}
+              }
+            },
+            "Enabled": true,
+            "Order": 12,
+            "Id": "",
+            "StepState": 0,
+            "ContinueOnFailure": false,
+            "StepImageKey": "ZAHRTST - DDDAUDITfnos1qq3.ja2",
+            "QcId": 0,
+            "QcVersionStamp": 0,
+            "Version": 200
+          }
+        },
+        {
+          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+          "__value": {
+            "Runtime ID": "33338cbc-3f18-46c3-85db-250d59edcddf",
+            "Description": "Wait for '500' msec.",
+            "CustomDescription": null,
+            "Step": {
+              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.SleepActionDescriptor",
+              "__value": {
+                "WaitTime": 500,
+                "WaitOnElements": true,
+                "WaitOnElementsTimeout": 30000,
+                "UseStepWaitOnElementsTimout": false,
+                "SearchByImageFirst": 0,
+                "Pause": 0,
+                "RunsAgainstVersion": "",
+                "Constraints": {
+                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                  "__value": {
+                    "ConstraintValues": {}
+                  }
+                },
+                "Elements": {},
+                "StepType": 4,
+                "LogMessageOnFailure": "",
+                "EditorType": "",
+                "DataBindingExpressions": {}
+              }
+            },
+            "Enabled": true,
+            "Order": 13,
+            "Id": "",
+            "StepState": 0,
+            "ContinueOnFailure": false,
+            "StepImageKey": "ZAHRTST - DDDAUDIT2su3fdg3.k3a",
+            "QcId": 0,
+            "QcVersionStamp": 0,
+            "Version": 200
+          }
+        },
+        {
+          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+          "__value": {
+            "Runtime ID": "675defba-ca7f-4b4e-a370-8d3c0adcc1b3",
+            "Description": "Keyboard (KeyPress) - Enter (1 times) on 'BodyTag'",
+            "CustomDescription": null,
+            "Step": {
+              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.DesktopKeyboardActionDescriptor",
+              "__value": {
+                "focus": true,
+                "KeyPress": "Enter",
+                "HoldFor": 150,
+                "Action": 0,
+                "RepeatCount": 1,
+                "UsejQuery": false,
+                "ClosesBrowser": false,
+                "AjaxTimeout": 0,
+                "Pause": 0,
+                "WaitOnElementsTimeout": 30000,
+                "SearchByImageFirst": 0,
+                "UseStepWaitOnElementsTimout": false,
+                "WaitOnElements": true,
+                "RunsAgainstVersion": "",
+                "Constraints": {
+                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                  "__value": {
+                    "ConstraintValues": {}
+                  }
+                },
+                "Elements": {
+                  "target": {
+                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
+                    "__value": {
+                      "Name": "target",
+                      "Region": null,
+                      "Page": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
+                        "__value": {
+                          "Path": "https://zaih-tst.utshare.utsystem.edu/psp/ZAIHTST/EMPLOYEE/HRMS/c/PROCESS_SCHEDULER.PRCSMULTI.GBL",
+                          "Query": "?cmd=uninav&Rnode=HRMS&uninavpath=Root%7BPORTAL_ROOT_OBJECT%7D.NO_CRUMB%7BPTUN_11362845700088328,PORTAL_ROOT_OBJECT%7D.System%20Process%20Requests%7BPT_PRCSMULTI_GBL%7D",
+                          "BaseUrl": "",
+                          "EquivalentUrls": [],
+                          "Fragment": "",
+                          "Title": "System Process Requests",
+                          "CompareMode": 0,
+                          "AlwaysUseTitleInCompare": false,
+                          "FriendlyName": "SystemProcessRequests24"
+                        }
+                      },
+                      "Frame": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.Frame",
+                        "__value": {
+                          "FrameInfo": {
+                            "__type": "ArtOfTest.WebAii.Core.FrameInfo",
+                            "__value": {
+                              "_index": 1,
+                              "_name": "ptModFrame_0",
+                              "_id": "ptModFrame_0",
+                              "TestStudioTag": "",
+                              "_baseURL": "https://zahr-tst.utshare.utsystem.edu/psc/ZAHRTST/EMPLOYEE/HRMS/c/PROCESS_SCHEDULER.PRCSMULTI.GBL",
+                              "_query": "ICType=Panel&ICElementNum=0&ICStateNum=2&ICResubmit=1&ICAJAX=1&",
+                              "_useQuery": false,
+                              "_usesBaseUrlHost": false
+                            }
+                          },
+                          "FriendlyName": "FramePtModFrame0"
+                        }
+                      },
+                      "FindExpression": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
+                        "__value": {
+                          "uniqueKey": null,
+                          "NodeKind": 4,
+                          "TechnologyType": 1,
+                          "Name": "BodyTag",
+                          "FindExpressions": [
+                            {
+                              "Key": 1,
+                              "Value": {
+                                "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
+                                "__value": {
+                                  "Clauses": [
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "TagIndex=body:0"
+                                      }
+                                    }
+                                  ],
+                                  "Constraints": [],
+                                  "ChainStops": []
+                                }
+                              }
+                            }
+                          ],
+                          "BackupSearchClause": "/html[1]/body[1]",
+                          "ImageSearchClauses": [
+                            {
+                              "__type": "ArtOfTest.Common.ImageSearchClause",
+                              "__value": {
+                                "Resolution": "1920, 1080",
+                                "BroweserType": 7,
+                                "Image": "678438B1C47F0821B04A29433A8BB8453EF36B6490265B3C58D2D6B161AF1034",
+                                "Index": 0,
+                                "MatchThreshold": 90,
+                                "OsVersion": "10.0.19043.0",
+                                "ScreenScale": 1.0,
+                                "ScrollOnImageSearch": null
+                              }
+                            }
+                          ],
+                          "DataBindingExpressions": {}
+                        }
+                      },
+                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlControl",
+                      "IsIndependent": false,
+                      "DomStateKey": "",
+                      "TechnologyType": 1,
+                      "Version": 200
+                    }
+                  }
+                },
+                "StepType": 4,
+                "LogMessageOnFailure": "",
+                "EditorType": "",
+                "DataBindingExpressions": {}
+              }
+            },
+            "Enabled": true,
+            "Order": 14,
+            "Id": "",
+            "StepState": 0,
+            "ContinueOnFailure": false,
+            "StepImageKey": "ZAHRTST - DDDAUDIT50wrc5b0.gpr",
+            "QcId": 0,
+            "QcVersionStamp": 0,
+            "Version": 200
+          }
+        },
+        {
+          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+          "__value": {
+            "Runtime ID": "3c88a09b-87ec-403d-beef-7fbad67f7201",
+            "Description": "Wait for '500' msec.",
+            "CustomDescription": null,
+            "Step": {
+              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.SleepActionDescriptor",
+              "__value": {
+                "WaitTime": 500,
+                "WaitOnElements": true,
+                "WaitOnElementsTimeout": 30000,
+                "UseStepWaitOnElementsTimout": false,
+                "SearchByImageFirst": 0,
+                "Pause": 0,
+                "RunsAgainstVersion": "",
+                "Constraints": {
+                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                  "__value": {
+                    "ConstraintValues": {}
+                  }
+                },
+                "Elements": {},
+                "StepType": 4,
+                "LogMessageOnFailure": "",
+                "EditorType": "",
+                "DataBindingExpressions": {}
+              }
+            },
+            "Enabled": true,
+            "Order": 15,
+            "Id": "",
+            "StepState": 0,
+            "ContinueOnFailure": false,
+            "StepImageKey": "ZAHRTST - DDDAUDIT03cv5o1q.a4k",
+            "QcId": 0,
+            "QcVersionStamp": 0,
+            "Version": 200
+          }
+        },
+        {
+          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+          "__value": {
+            "Runtime ID": "dcd6ce7e-de39-4d0b-a1c1-6ff157465d76",
+            "Description": "Click 'PRCSRQSTDLGWRKLOADPRCSMONITORPBLink'",
+            "CustomDescription": null,
+            "Step": {
+              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ClickActionDescriptor",
+              "__value": {
+                "SimulateRealClick": true,
+                "ScrollToVisibleType": 2,
+                "UsejQuery": false,
+                "ClosesBrowser": false,
+                "AjaxTimeout": 0,
+                "Pause": 0,
+                "WaitOnElementsTimeout": 30000,
+                "SearchByImageFirst": 0,
+                "UseStepWaitOnElementsTimout": false,
+                "WaitOnElements": true,
+                "RunsAgainstVersion": "",
+                "Constraints": {
+                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                  "__value": {
+                    "ConstraintValues": {}
+                  }
+                },
+                "Elements": {
+                  "target": {
+                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
+                    "__value": {
+                      "Name": "target",
+                      "Region": null,
+                      "Page": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
+                        "__value": {
+                          "Path": "https://zaih-tst.utshare.utsystem.edu/psp/ZAIHTST/EMPLOYEE/HRMS/c/PROCESS_SCHEDULER.PRCSMULTI.GBL",
+                          "Query": "?cmd=uninav&Rnode=HRMS&uninavpath=Root%7BPORTAL_ROOT_OBJECT%7D.NO_CRUMB%7BPTUN_11362845700088328,PORTAL_ROOT_OBJECT%7D.System%20Process%20Requests%7BPT_PRCSMULTI_GBL%7D",
+                          "BaseUrl": "",
+                          "EquivalentUrls": [],
+                          "Fragment": "",
+                          "Title": "System Process Requests",
+                          "CompareMode": 0,
+                          "AlwaysUseTitleInCompare": false,
+                          "FriendlyName": "SystemProcessRequests25"
+                        }
+                      },
+                      "Frame": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.Frame",
+                        "__value": {
+                          "FrameInfo": {
+                            "__type": "ArtOfTest.WebAii.Core.FrameInfo",
+                            "__value": {
+                              "_index": 0,
+                              "_name": "TargetContent",
+                              "_id": "ptifrmtgtframe",
+                              "TestStudioTag": "",
+                              "_baseURL": "https://zahr-tst.utshare.utsystem.edu/psc/ZAHRTST/EMPLOYEE/HRMS/c/PROCESS_SCHEDULER.PRCSMULTI.GBL",
+                              "_query": "cmd=uninav&Rnode=HRMS&uninavpath=Root{PORTAL_ROOT_OBJECT}.NO_CRUMB{PTUN_11362845700088328,PORTAL_ROOT_OBJECT}.System Process Requests{PT_PRCSMULTI_GBL}&PortalActualURL=https://zahr-tst.utshare.utsystem.edu/psc/ZAHRTST/EMPLOYEE/HRMS/c/PROCESS_SCHEDULER.PRCSMULTI.GBL?cmd=uninav&Rnode=HRMS&uninavpath=Root{PORTAL_ROOT_OBJECT}.NO_CRUMB{PTUN_11362845700088328,PORTAL_ROOT_OBJECT}.System%20Process%20Requests{PT_PRCSMULTI_GBL}&PortalRegistryName=EMPLOYEE&PortalServletURI=https://zaih-tst.utshare.utsystem.edu/psp/ZAIHTST/&PortalURI=https://zaih-tst.utshare.utsystem.edu/psc/ZAIHTST/&PortalHostNode=EMPL&NoCrumbs=yes",
+                              "_useQuery": false,
+                              "_usesBaseUrlHost": false
+                            }
+                          },
+                          "FriendlyName": "FramePtifrmtgtframe"
+                        }
+                      },
+                      "FindExpression": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
+                        "__value": {
+                          "uniqueKey": null,
+                          "NodeKind": 4,
+                          "TechnologyType": 1,
+                          "Name": "PRCSRQSTDLGWRKLOADPRCSMONITORPBLink",
+                          "FindExpressions": [
+                            {
+                              "Key": 1,
+                              "Value": {
+                                "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
+                                "__value": {
+                                  "Clauses": [
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "id=PRCSRQSTDLG_WRK_LOADPRCSMONITORPB"
+                                      }
+                                    },
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "tagname=a"
+                                      }
+                                    }
+                                  ],
+                                  "Constraints": [],
+                                  "ChainStops": []
+                                }
+                              }
+                            }
+                          ],
+                          "BackupSearchClause": "/html[1]/body[1]/form[1]/div[5]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/table[1]/tbody[1]/tr[4]/td[4]/div[1]/span[1]/a[1]",
+                          "ImageSearchClauses": [
+                            {
+                              "__type": "ArtOfTest.Common.ImageSearchClause",
+                              "__value": {
+                                "Resolution": "1920, 1080",
+                                "BroweserType": 7,
+                                "Image": "944D9BEC6D5A484833CFA2ACD2A9BB5EDB0E9BB04E78C7D0D8389CB7DCC9D53D",
+                                "Index": 0,
+                                "MatchThreshold": 90,
+                                "OsVersion": "10.0.19043.0",
+                                "ScreenScale": 1.0,
+                                "ScrollOnImageSearch": null
+                              }
+                            }
+                          ],
+                          "DataBindingExpressions": {}
+                        }
+                      },
+                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlAnchor",
+                      "IsIndependent": false,
+                      "DomStateKey": "",
+                      "TechnologyType": 1,
+                      "Version": 200
+                    }
+                  }
+                },
+                "StepType": 4,
+                "LogMessageOnFailure": "",
+                "EditorType": "",
+                "DataBindingExpressions": {}
+              }
+            },
+            "Enabled": true,
+            "Order": 16,
+            "Id": "",
+            "StepState": 0,
+            "ContinueOnFailure": false,
+            "StepImageKey": "ZAHRTST - DDDAUDITfhein2sw.3cj",
+            "QcId": 0,
+            "QcVersionStamp": 0,
+            "Version": 200
+          }
+        },
+        {
+          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+          "__value": {
+            "Runtime ID": "5a7edcfc-5361-453b-b97e-cbfc7eff4f6c",
+            "Description": "Wait for '300000' msec.",
+            "CustomDescription": null,
+            "Step": {
+              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.SleepActionDescriptor",
+              "__value": {
+                "WaitTime": 300000,
+                "WaitOnElements": true,
+                "WaitOnElementsTimeout": 30000,
+                "UseStepWaitOnElementsTimout": false,
+                "SearchByImageFirst": 0,
+                "Pause": 0,
+                "RunsAgainstVersion": "",
+                "Constraints": {
+                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                  "__value": {
+                    "ConstraintValues": {}
+                  }
+                },
+                "Elements": {},
+                "StepType": 4,
+                "LogMessageOnFailure": "",
+                "EditorType": "",
+                "DataBindingExpressions": {}
+              }
+            },
+            "Enabled": true,
+            "Order": 17,
+            "Id": "",
+            "StepState": 0,
+            "ContinueOnFailure": false,
+            "StepImageKey": "ZAHRTST - DDDAUDITbyd30joy.wcl",
+            "QcId": 0,
+            "QcVersionStamp": 0,
+            "Version": 200
+          }
+        },
+        {
+          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+          "__value": {
+            "Runtime ID": "065319a7-72fd-4626-8d64-fc47581cc2b3",
+            "Description": "Click 'REFRESHBTNButton'",
+            "CustomDescription": null,
+            "Step": {
+              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ClickActionDescriptor",
+              "__value": {
+                "SimulateRealClick": true,
+                "ScrollToVisibleType": 2,
+                "UsejQuery": false,
+                "ClosesBrowser": false,
+                "AjaxTimeout": 0,
+                "Pause": 0,
+                "WaitOnElementsTimeout": 30000,
+                "SearchByImageFirst": 0,
+                "UseStepWaitOnElementsTimout": false,
+                "WaitOnElements": true,
+                "RunsAgainstVersion": "",
+                "Constraints": {
+                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                  "__value": {
+                    "ConstraintValues": {}
+                  }
+                },
+                "Elements": {
+                  "target": {
+                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
+                    "__value": {
+                      "Name": "target",
+                      "Region": null,
+                      "Page": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
+                        "__value": {
+                          "Path": "https://zaih-tst.utshare.utsystem.edu/psp/ZAIHTST/EMPLOYEE/HRMS/c/PROCESS_SCHEDULER.PRCSMULTI.GBL",
+                          "Query": "?cmd=uninav&Rnode=HRMS&uninavpath=Root%7BPORTAL_ROOT_OBJECT%7D.NO_CRUMB%7BPTUN_11362845700088328,PORTAL_ROOT_OBJECT%7D.System%20Process%20Requests%7BPT_PRCSMULTI_GBL%7D",
+                          "BaseUrl": "",
+                          "EquivalentUrls": [],
+                          "Fragment": "",
+                          "Title": "Process Monitor",
+                          "CompareMode": 0,
+                          "AlwaysUseTitleInCompare": false,
+                          "FriendlyName": "ProcessMonitor2"
+                        }
+                      },
+                      "Frame": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.Frame",
+                        "__value": {
+                          "FrameInfo": {
+                            "__type": "ArtOfTest.WebAii.Core.FrameInfo",
+                            "__value": {
+                              "_index": 0,
+                              "_name": "TargetContent",
+                              "_id": "ptifrmtgtframe",
+                              "TestStudioTag": "",
+                              "_baseURL": "https://zahr-tst.utshare.utsystem.edu/psc/ZAHRTST/EMPLOYEE/HRMS/c/PROCESS_SCHEDULER.PRCSMULTI.GBL",
+                              "_query": "cmd=uninav&Rnode=HRMS&uninavpath=Root{PORTAL_ROOT_OBJECT}.NO_CRUMB{PTUN_11362845700088328,PORTAL_ROOT_OBJECT}.System Process Requests{PT_PRCSMULTI_GBL}&PortalActualURL=https://zahr-tst.utshare.utsystem.edu/psc/ZAHRTST/EMPLOYEE/HRMS/c/PROCESS_SCHEDULER.PRCSMULTI.GBL?cmd=uninav&Rnode=HRMS&uninavpath=Root{PORTAL_ROOT_OBJECT}.NO_CRUMB{PTUN_11362845700088328,PORTAL_ROOT_OBJECT}.System%20Process%20Requests{PT_PRCSMULTI_GBL}&PortalRegistryName=EMPLOYEE&PortalServletURI=https://zaih-tst.utshare.utsystem.edu/psp/ZAIHTST/&PortalURI=https://zaih-tst.utshare.utsystem.edu/psc/ZAIHTST/&PortalHostNode=EMPL&NoCrumbs=yes",
+                              "_useQuery": false,
+                              "_usesBaseUrlHost": false
+                            }
+                          },
+                          "FriendlyName": "FramePtifrmtgtframe"
+                        }
+                      },
+                      "FindExpression": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
+                        "__value": {
+                          "uniqueKey": null,
+                          "NodeKind": 4,
+                          "TechnologyType": 1,
+                          "Name": "REFRESHBTNButton",
+                          "FindExpressions": [
+                            {
+                              "Key": 1,
+                              "Value": {
+                                "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
+                                "__value": {
+                                  "Clauses": [
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "id=REFRESH_BTN"
+                                      }
+                                    },
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "tagname=input"
+                                      }
+                                    }
+                                  ],
+                                  "Constraints": [],
+                                  "ChainStops": []
+                                }
+                              }
+                            }
+                          ],
+                          "BackupSearchClause": "/html[1]/body[1]/form[1]/div[5]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/table[1]/tbody[1]/tr[2]/td[2]/div[1]/table[1]/tbody[1]/tr[2]/td[1]/table[1]/tbody[1]/tr[2]/td[2]/div[1]/a[1]/span[1]/input[1]",
+                          "ImageSearchClauses": [
+                            {
+                              "__type": "ArtOfTest.Common.ImageSearchClause",
+                              "__value": {
+                                "Resolution": "1920, 1080",
+                                "BroweserType": 7,
+                                "Image": "A8257F0B6AC943EEAA8EFC90529124613AC131649E852C443DE518D50C646C57",
+                                "Index": 0,
+                                "MatchThreshold": 90,
+                                "OsVersion": "10.0.19043.0",
+                                "ScreenScale": 1.0,
+                                "ScrollOnImageSearch": null
+                              }
+                            }
+                          ],
+                          "DataBindingExpressions": {}
+                        }
+                      },
+                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlInputButton",
+                      "IsIndependent": false,
+                      "DomStateKey": "",
+                      "TechnologyType": 1,
+                      "Version": 200
+                    }
+                  }
+                },
+                "StepType": 4,
+                "LogMessageOnFailure": "",
+                "EditorType": "",
+                "DataBindingExpressions": {}
+              }
+            },
+            "Enabled": true,
+            "Order": 18,
+            "Id": "",
+            "StepState": 0,
+            "ContinueOnFailure": false,
+            "StepImageKey": "ZAHRTST - DDDAUDITiqhv0fkm.tzp",
+            "QcId": 0,
+            "QcVersionStamp": 0,
+            "Version": 200
+          }
+        },
+        {
+          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+          "__value": {
+            "Runtime ID": "b6109ee7-f171-480a-b69f-de31072222cb",
+            "Description": "Wait for '500' msec.",
+            "CustomDescription": null,
+            "Step": {
+              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.SleepActionDescriptor",
+              "__value": {
+                "WaitTime": 500,
+                "WaitOnElements": true,
+                "WaitOnElementsTimeout": 30000,
+                "UseStepWaitOnElementsTimout": false,
+                "SearchByImageFirst": 0,
+                "Pause": 0,
+                "RunsAgainstVersion": "",
+                "Constraints": {
+                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                  "__value": {
+                    "ConstraintValues": {}
+                  }
+                },
+                "Elements": {},
+                "StepType": 4,
+                "LogMessageOnFailure": "",
+                "EditorType": "",
+                "DataBindingExpressions": {}
+              }
+            },
+            "Enabled": true,
+            "Order": 19,
+            "Id": "",
+            "StepState": 0,
+            "ContinueOnFailure": false,
+            "StepImageKey": "ZAHRTST - DDDAUDITylcwa23z.rff",
+            "QcId": 0,
+            "QcVersionStamp": 0,
+            "Version": 200
+          }
+        },
+        {
+          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+          "__value": {
+            "Runtime ID": "35df8fbf-b761-4e60-8c1c-33ee2bc1660f",
+            "Description": "Click 'PRCSDETAILBTN0Link'",
+            "CustomDescription": null,
+            "Step": {
+              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ClickActionDescriptor",
+              "__value": {
+                "SimulateRealClick": true,
+                "ScrollToVisibleType": 2,
+                "UsejQuery": false,
+                "ClosesBrowser": false,
+                "AjaxTimeout": 0,
+                "Pause": 0,
+                "WaitOnElementsTimeout": 30000,
+                "SearchByImageFirst": 0,
+                "UseStepWaitOnElementsTimout": false,
+                "WaitOnElements": true,
+                "RunsAgainstVersion": "",
+                "Constraints": {
+                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                  "__value": {
+                    "ConstraintValues": {}
+                  }
+                },
+                "Elements": {
+                  "target": {
+                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
+                    "__value": {
+                      "Name": "target",
+                      "Region": null,
+                      "Page": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
+                        "__value": {
+                          "Path": "https://zaih-tst.utshare.utsystem.edu/psp/ZAIHTST/EMPLOYEE/HRMS/c/PROCESS_SCHEDULER.PRCSMULTI.GBL",
+                          "Query": "?cmd=uninav&Rnode=HRMS&uninavpath=Root%7BPORTAL_ROOT_OBJECT%7D.NO_CRUMB%7BPTUN_11362845700088328,PORTAL_ROOT_OBJECT%7D.System%20Process%20Requests%7BPT_PRCSMULTI_GBL%7D",
+                          "BaseUrl": "",
+                          "EquivalentUrls": [],
+                          "Fragment": "",
+                          "Title": "Process Monitor",
+                          "CompareMode": 0,
+                          "AlwaysUseTitleInCompare": false,
+                          "FriendlyName": "ProcessMonitor3"
+                        }
+                      },
+                      "Frame": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.Frame",
+                        "__value": {
+                          "FrameInfo": {
+                            "__type": "ArtOfTest.WebAii.Core.FrameInfo",
+                            "__value": {
+                              "_index": 0,
+                              "_name": "TargetContent",
+                              "_id": "ptifrmtgtframe",
+                              "TestStudioTag": "",
+                              "_baseURL": "https://zahr-tst.utshare.utsystem.edu/psc/ZAHRTST/EMPLOYEE/HRMS/c/PROCESS_SCHEDULER.PRCSMULTI.GBL",
+                              "_query": "cmd=uninav&Rnode=HRMS&uninavpath=Root{PORTAL_ROOT_OBJECT}.NO_CRUMB{PTUN_11362845700088328,PORTAL_ROOT_OBJECT}.System Process Requests{PT_PRCSMULTI_GBL}&PortalActualURL=https://zahr-tst.utshare.utsystem.edu/psc/ZAHRTST/EMPLOYEE/HRMS/c/PROCESS_SCHEDULER.PRCSMULTI.GBL?cmd=uninav&Rnode=HRMS&uninavpath=Root{PORTAL_ROOT_OBJECT}.NO_CRUMB{PTUN_11362845700088328,PORTAL_ROOT_OBJECT}.System%20Process%20Requests{PT_PRCSMULTI_GBL}&PortalRegistryName=EMPLOYEE&PortalServletURI=https://zaih-tst.utshare.utsystem.edu/psp/ZAIHTST/&PortalURI=https://zaih-tst.utshare.utsystem.edu/psc/ZAIHTST/&PortalHostNode=EMPL&NoCrumbs=yes",
+                              "_useQuery": false,
+                              "_usesBaseUrlHost": false
+                            }
+                          },
+                          "FriendlyName": "FramePtifrmtgtframe"
+                        }
+                      },
+                      "FindExpression": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
+                        "__value": {
+                          "uniqueKey": null,
+                          "NodeKind": 4,
+                          "TechnologyType": 1,
+                          "Name": "PRCSDETAILBTN0Link",
+                          "FindExpressions": [
+                            {
+                              "Key": 1,
+                              "Value": {
+                                "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
+                                "__value": {
+                                  "Clauses": [
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "id=PRCSDETAIL_BTN$0"
+                                      }
+                                    },
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "tagname=a"
+                                      }
+                                    }
+                                  ],
+                                  "Constraints": [],
+                                  "ChainStops": []
+                                }
+                              }
+                            }
+                          ],
+                          "BackupSearchClause": "/html[1]/body[1]/form[1]/div[5]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/table[1]/tbody[1]/tr[4]/td[2]/div[1]/table[1]/tbody[1]/tr[2]/td[1]/table[1]/tbody[1]/tr[2]/td[10]/div[1]/span[1]/a[1]",
+                          "ImageSearchClauses": [
+                            {
+                              "__type": "ArtOfTest.Common.ImageSearchClause",
+                              "__value": {
+                                "Resolution": "1920, 1080",
+                                "BroweserType": 7,
+                                "Image": "007D2D5899DB7AF4EEE9ACED3505713993658B3A69AF0D394065688DF1815ECB",
+                                "Index": 0,
+                                "MatchThreshold": 90,
+                                "OsVersion": "10.0.19043.0",
+                                "ScreenScale": 1.0,
+                                "ScrollOnImageSearch": null
+                              }
+                            }
+                          ],
+                          "DataBindingExpressions": {}
+                        }
+                      },
+                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlAnchor",
+                      "IsIndependent": false,
+                      "DomStateKey": "",
+                      "TechnologyType": 1,
+                      "Version": 200
+                    }
+                  }
+                },
+                "StepType": 4,
+                "LogMessageOnFailure": "",
+                "EditorType": "",
+                "DataBindingExpressions": {}
+              }
+            },
+            "Enabled": true,
+            "Order": 20,
+            "Id": "",
+            "StepState": 0,
+            "ContinueOnFailure": false,
+            "StepImageKey": "ZAHRTST - DDDAUDITrq5mjmuz.uzk",
+            "QcId": 0,
+            "QcVersionStamp": 0,
+            "Version": 200
+          }
+        },
+        {
+          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+          "__value": {
+            "Runtime ID": "95b47f31-0560-4814-9148-2c5ec571cf36",
+            "Description": "Wait for '500' msec.",
+            "CustomDescription": null,
+            "Step": {
+              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.SleepActionDescriptor",
+              "__value": {
+                "WaitTime": 500,
+                "WaitOnElements": true,
+                "WaitOnElementsTimeout": 30000,
+                "UseStepWaitOnElementsTimout": false,
+                "SearchByImageFirst": 0,
+                "Pause": 0,
+                "RunsAgainstVersion": "",
+                "Constraints": {
+                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                  "__value": {
+                    "ConstraintValues": {}
+                  }
+                },
+                "Elements": {},
+                "StepType": 4,
+                "LogMessageOnFailure": "",
+                "EditorType": "",
+                "DataBindingExpressions": {}
+              }
+            },
+            "Enabled": true,
+            "Order": 21,
+            "Id": "",
+            "StepState": 0,
+            "ContinueOnFailure": false,
+            "StepImageKey": "ZAHRTST - DDDAUDITonzukzae.osu",
+            "QcId": 0,
+            "QcVersionStamp": 0,
+            "Version": 200
+          }
+        },
+        {
+          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+          "__value": {
+            "Runtime ID": "3ca68845-60c1-4f5f-a4c1-230e58b5e80e",
+            "Description": "Click 'PMNDERIVEDINDEXBTNLink'",
+            "CustomDescription": null,
+            "Step": {
+              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ClickActionDescriptor",
+              "__value": {
+                "SimulateRealClick": true,
+                "ScrollToVisibleType": 2,
+                "UsejQuery": false,
+                "ClosesBrowser": false,
+                "AjaxTimeout": 0,
+                "Pause": 0,
+                "WaitOnElementsTimeout": 30000,
+                "SearchByImageFirst": 0,
+                "UseStepWaitOnElementsTimout": false,
+                "WaitOnElements": true,
+                "RunsAgainstVersion": "",
+                "Constraints": {
+                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                  "__value": {
+                    "ConstraintValues": {}
+                  }
+                },
+                "Elements": {
+                  "target": {
+                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
+                    "__value": {
+                      "Name": "target",
+                      "Region": null,
+                      "Page": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
+                        "__value": {
+                          "Path": "https://zaih-tst.utshare.utsystem.edu/psp/ZAIHTST/EMPLOYEE/HRMS/c/PROCESS_SCHEDULER.PRCSMULTI.GBL",
+                          "Query": "?cmd=uninav&Rnode=HRMS&uninavpath=Root%7BPORTAL_ROOT_OBJECT%7D.NO_CRUMB%7BPTUN_11362845700088328,PORTAL_ROOT_OBJECT%7D.System%20Process%20Requests%7BPT_PRCSMULTI_GBL%7D",
+                          "BaseUrl": "",
+                          "EquivalentUrls": [],
+                          "Fragment": "",
+                          "Title": "Process Monitor",
+                          "CompareMode": 0,
+                          "AlwaysUseTitleInCompare": false,
+                          "FriendlyName": "ProcessMonitor4"
+                        }
+                      },
+                      "Frame": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.Frame",
+                        "__value": {
+                          "FrameInfo": {
+                            "__type": "ArtOfTest.WebAii.Core.FrameInfo",
+                            "__value": {
+                              "_index": 1,
+                              "_name": "ptModFrame_1",
+                              "_id": "ptModFrame_1",
+                              "TestStudioTag": "",
+                              "_baseURL": "https://zahr-tst.utshare.utsystem.edu/psc/ZAHRTST/EMPLOYEE/HRMS/c/PROCESSMONITOR.PROCESSMONITOR.GBL",
+                              "_query": "ICType=Panel&ICElementNum=0&ICStateNum=16&ICResubmit=1&ICAJAX=1&",
+                              "_useQuery": false,
+                              "_usesBaseUrlHost": false
+                            }
+                          },
+                          "FriendlyName": "FramePtModFrame1"
+                        }
+                      },
+                      "FindExpression": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
+                        "__value": {
+                          "uniqueKey": null,
+                          "NodeKind": 4,
+                          "TechnologyType": 1,
+                          "Name": "PMNDERIVEDINDEXBTNLink",
+                          "FindExpressions": [
+                            {
+                              "Key": 1,
+                              "Value": {
+                                "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
+                                "__value": {
+                                  "Clauses": [
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "id=PMN_DERIVED_INDEX_BTN"
+                                      }
+                                    },
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "tagname=a"
+                                      }
+                                    }
+                                  ],
+                                  "Constraints": [],
+                                  "ChainStops": []
+                                }
+                              }
+                            }
+                          ],
+                          "BackupSearchClause": "/html[1]/body[1]/form[1]/div[4]/div[1]/table[1]/tbody[1]/tr[6]/td[4]/div[1]/table[1]/tbody[1]/tr[2]/td[1]/table[1]/tbody[1]/tr[5]/td[2]/div[1]/span[1]/a[1]",
+                          "ImageSearchClauses": [
+                            {
+                              "__type": "ArtOfTest.Common.ImageSearchClause",
+                              "__value": {
+                                "Resolution": "1920, 1080",
+                                "BroweserType": 7,
+                                "Image": "4CF8439581765622002254489287B6FC71659857ACBC115C227B72C71EED2003",
+                                "Index": 0,
+                                "MatchThreshold": 90,
+                                "OsVersion": "10.0.19043.0",
+                                "ScreenScale": 1.0,
+                                "ScrollOnImageSearch": null
+                              }
+                            }
+                          ],
+                          "DataBindingExpressions": {}
+                        }
+                      },
+                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlAnchor",
+                      "IsIndependent": false,
+                      "DomStateKey": "",
+                      "TechnologyType": 1,
+                      "Version": 200
+                    }
+                  }
+                },
+                "StepType": 4,
+                "LogMessageOnFailure": "",
+                "EditorType": "",
+                "DataBindingExpressions": {}
+              }
+            },
+            "Enabled": true,
+            "Order": 22,
+            "Id": "",
+            "StepState": 0,
+            "ContinueOnFailure": false,
+            "StepImageKey": "ZAHRTST - DDDAUDITvf1slhin.afa",
+            "QcId": 0,
+            "QcVersionStamp": 0,
+            "Version": 200
+          }
+        },
+        {
+          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+          "__value": {
+            "Runtime ID": "3bb67293-e1e8-45e7-aead-248b5213d720",
+            "Description": "Wait for '500' msec.",
+            "CustomDescription": null,
+            "Step": {
+              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.SleepActionDescriptor",
+              "__value": {
+                "WaitTime": 500,
+                "WaitOnElements": true,
+                "WaitOnElementsTimeout": 30000,
+                "UseStepWaitOnElementsTimout": false,
+                "SearchByImageFirst": 0,
+                "Pause": 0,
+                "RunsAgainstVersion": "",
+                "Constraints": {
+                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                  "__value": {
+                    "ConstraintValues": {}
+                  }
+                },
+                "Elements": {},
+                "StepType": 4,
+                "LogMessageOnFailure": "",
+                "EditorType": "",
+                "DataBindingExpressions": {}
+              }
+            },
+            "Enabled": true,
+            "Order": 23,
+            "Id": "",
+            "StepState": 0,
+            "ContinueOnFailure": false,
+            "StepImageKey": "ZAHRTST - DDDAUDITpsrftfju.0ze",
+            "QcId": 0,
+            "QcVersionStamp": 0,
+            "Version": 200
+          }
+        },
+        {
+          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+          "__value": {
+            "Runtime ID": "689d6193-db4a-4a58-8b96-e3aa193dd6f6",
+            "Description": "Click 'URL1Link'",
+            "CustomDescription": null,
+            "Step": {
+              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ClickActionDescriptor",
+              "__value": {
+                "SimulateRealClick": true,
+                "ScrollToVisibleType": 2,
+                "UsejQuery": false,
+                "ClosesBrowser": false,
+                "AjaxTimeout": 0,
+                "Pause": 0,
+                "WaitOnElementsTimeout": 30000,
+                "SearchByImageFirst": 0,
+                "UseStepWaitOnElementsTimout": false,
+                "WaitOnElements": true,
+                "RunsAgainstVersion": "",
+                "Constraints": {
+                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                  "__value": {
+                    "ConstraintValues": {}
+                  }
+                },
+                "Elements": {
+                  "target": {
+                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
+                    "__value": {
+                      "Name": "target",
+                      "Region": null,
+                      "Page": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
+                        "__value": {
+                          "Path": "https://zaih-tst.utshare.utsystem.edu/psp/ZAIHTST/EMPLOYEE/HRMS/c/PROCESS_SCHEDULER.PRCSMULTI.GBL",
+                          "Query": "?cmd=uninav&Rnode=HRMS&uninavpath=Root%7BPORTAL_ROOT_OBJECT%7D.NO_CRUMB%7BPTUN_11362845700088328,PORTAL_ROOT_OBJECT%7D.System%20Process%20Requests%7BPT_PRCSMULTI_GBL%7D",
+                          "BaseUrl": "",
+                          "EquivalentUrls": [],
+                          "Fragment": "",
+                          "Title": "Process Monitor",
+                          "CompareMode": 0,
+                          "AlwaysUseTitleInCompare": false,
+                          "FriendlyName": "ProcessMonitor14"
+                        }
+                      },
+                      "Frame": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.Frame",
+                        "__value": {
+                          "FrameInfo": {
+                            "__type": "ArtOfTest.WebAii.Core.FrameInfo",
+                            "__value": {
+                              "_index": 2,
+                              "_name": "ptModFrame_2",
+                              "_id": "ptModFrame_2",
+                              "TestStudioTag": "",
+                              "_baseURL": "https://zahr-tst.utshare.utsystem.edu/psc/ZAHRTST/EMPLOYEE/HRMS/c/PROCESSMONITOR.PROCESSMONITOR.GBL",
+                              "_query": "ICType=Panel&ICElementNum=0&ICStateNum=17&ICResubmit=1&ICAJAX=1&",
+                              "_useQuery": false,
+                              "_usesBaseUrlHost": false
+                            }
+                          },
+                          "FriendlyName": "FramePtModFrame2"
+                        }
+                      },
+                      "FindExpression": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
+                        "__value": {
+                          "uniqueKey": null,
+                          "NodeKind": 4,
+                          "TechnologyType": 1,
+                          "Name": "URL1Link",
+                          "FindExpressions": [
+                            {
+                              "Key": 1,
+                              "Value": {
+                                "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
+                                "__value": {
+                                  "Clauses": [
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "id=URL$1"
+                                      }
+                                    },
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "tagname=a"
+                                      }
+                                    }
+                                  ],
+                                  "Constraints": [],
+                                  "ChainStops": []
+                                }
+                              }
+                            }
+                          ],
+                          "BackupSearchClause": "/html[1]/body[1]/form[1]/div[4]/div[1]/table[1]/tbody[1]/tr[6]/td[2]/div[1]/table[1]/tbody[1]/tr[3]/td[1]/div[1]/span[1]/a[1]",
+                          "ImageSearchClauses": [
+                            {
+                              "__type": "ArtOfTest.Common.ImageSearchClause",
+                              "__value": {
+                                "Resolution": "1920, 1080",
+                                "BroweserType": 7,
+                                "Image": "40447EA2E936A4A0AAC278F50F3A1B9272927F7AE7B5F6A973BA23A1EA6A871D",
+                                "Index": 0,
+                                "MatchThreshold": 90,
+                                "OsVersion": "10.0.19043.0",
+                                "ScreenScale": 1.0,
+                                "ScrollOnImageSearch": null
+                              }
+                            }
+                          ],
+                          "DataBindingExpressions": {}
+                        }
+                      },
+                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlAnchor",
+                      "IsIndependent": false,
+                      "DomStateKey": "",
+                      "TechnologyType": 1,
+                      "Version": 200
+                    }
+                  }
+                },
+                "StepType": 4,
+                "LogMessageOnFailure": "",
+                "EditorType": "",
+                "DataBindingExpressions": {}
+              }
+            },
+            "Enabled": true,
+            "Order": 24,
+            "Id": "",
+            "StepState": 0,
+            "ContinueOnFailure": false,
+            "StepImageKey": "ZAHRTST - DDDAUDITqbs0naht.zvu",
+            "QcId": 0,
+            "QcVersionStamp": 0,
+            "Version": 200
+          }
+        },
+        {
+          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+          "__value": {
+            "Runtime ID": "76d9fd16-fb67-44ed-aefc-e138154c3f47",
+            "Description": "Wait for '500' msec.",
+            "CustomDescription": null,
+            "Step": {
+              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.SleepActionDescriptor",
+              "__value": {
+                "WaitTime": 500,
+                "WaitOnElements": true,
+                "WaitOnElementsTimeout": 30000,
+                "UseStepWaitOnElementsTimout": false,
+                "SearchByImageFirst": 0,
+                "Pause": 0,
+                "RunsAgainstVersion": "",
+                "Constraints": {
+                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                  "__value": {
+                    "ConstraintValues": {}
+                  }
+                },
+                "Elements": {},
+                "StepType": 4,
+                "LogMessageOnFailure": "",
+                "EditorType": "",
+                "DataBindingExpressions": {}
+              }
+            },
+            "Enabled": true,
+            "Order": 25,
+            "Id": "",
+            "StepState": 0,
+            "ContinueOnFailure": false,
+            "StepImageKey": "ZAHRTST - DDDAUDITsua1gepm.b4v",
+            "QcId": 0,
+            "QcVersionStamp": 0,
+            "Version": 200
+          }
+        },
+        {
+          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+          "__value": {
+            "Runtime ID": "10d63140-8bfe-4600-8b8e-6a737e8c3382",
+            "Description": "Execute test 'Report Distribution Script'",
+            "CustomDescription": null,
+            "Step": {
+              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ExecuteTestActionDescriptor",
+              "__value": {
+                "WaitOnElementsTimeout": 0,
+                "UseStepWaitOnElementsTimout": false,
+                "WaitOnElements": false,
+                "SearchByImageFirst": 0,
+                "TestName": "Report Distribution Script",
+                "TestPath": "Report Distribution Script.tstest",
+                "TestUniqueId": "a4926cb2-dd40-445c-9f92-230e76b1cd8f",
+                "Pause": 0,
+                "RunsAgainstVersion": "",
+                "Constraints": {
+                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                  "__value": {
+                    "ConstraintValues": {}
+                  }
+                },
+                "Elements": {},
+                "StepType": 4,
+                "LogMessageOnFailure": "",
+                "EditorType": "",
+                "DataBindingExpressions": {}
+              }
+            },
+            "Enabled": true,
+            "Order": 26,
+            "Id": "",
+            "StepState": 0,
+            "ContinueOnFailure": false,
+            "StepImageKey": "ZAHRTST - DDDAUDITnds5uaow.mwv",
+            "QcId": 0,
+            "QcVersionStamp": 0,
+            "Version": 200
+          }
+        }
+      ]
+    },
+    "IndependentDescriptors": [],
+    "HtmlDescription": "",
+    "SilverlightEnabled": false,
+    "IsSilverlightApp": false,
+    "SilverlightAppWebUrl": "",
+    "SilverlightAppLocalDirectory": "",
+    "SilverlightAppRecordLocal": false,
+    "SilverlightAppOriginUri": null,
+    "WpfAppPath": null,
+    "UseDefaultWpfAppPath": false,
+    "TestAssembly": "ReportDistribution.dll",
+    "TestAssemblyPath": "bin",
+    "TestClass": "",
+    "IsManual": false,
+    "ResourceFilePath": "ZAHRTST - DDDAUDIT.resx",
+    "ElementImageStoreFilePath": "ZAHRTST - DDDAUDIT.imgstore",
+    "HasCodeBehind": false,
+    "DataInfo": {
+      "__type": "ArtOfTest.Common.Design.Data.DataInfo",
+      "__value": {
+        "ConnectionString": "",
+        "DefaultToGrid": true,
+        "DataRange": "",
+        "LoadRecordsCount": null,
+        "DataTableName": "",
+        "DataProvider": "",
+        "DataEnabled": true,
+        "HasBuiltinGrid": false,
+        "DataType": 4,
+        "BuiltInData": null,
+        "BuiltInDocumentKey": null,
+        "TSQL": ""
+      }
+    },
+    "VSProperties": {},
+    "DeploymentItems": [],
+    "IsTestFragment": false,
+    "StopTestListOnFailure": false,
+    "InheritParentDataSource": false,
+    "BrowserType": 0,
+    "QcId": 0,
+    "QcFilePath": null,
+    "QcTestVersionStamp": 0,
+    "TestLinks": [],
+    "Description": "",
+    "Name": "ZAHRTST - DDDAUDIT",
+    "Owner": "",
+    "Path": "ZAHRTST - DDDAUDIT.tstest",
+    "Priority": 0,
+    "TestType": 0,
+    "UniqueId": "65244819-d2e9-4144-9973-d609f6f6a742",
+    "Id": "65244819-d2e9-4144-9973-d609f6f6a742",
+    "ProjectId": "720c5e63-3beb-434d-95c9-d56048d225fc",
+    "Version": 200
+  }
+}

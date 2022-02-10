@@ -1,0 +1,127 @@
+{
+  "__type": "ArtOfTest.WebAii.Design.Execution.TestList",
+  "__value": {
+    "TestListId": "0711cc4c-5a0a-4431-a83c-854c96079084",
+    "Id": "0711cc4c-5a0a-4431-a83c-854c96079084",
+    "TestListName": "Monthly SYSAUDIT Feb",
+    "CreationDate": "2022-02-01T08:29:10-06:00",
+    "OwnerName": null,
+    "Settings": {
+      "__type": "ArtOfTest.WebAii.Core.Settings",
+      "__value": {
+        "ResponsiveWeb": {
+          "__type": "ArtOfTest.WebAii.Core.Settings+ResponsiveWebSettings",
+          "__value": {
+            "Width": 375,
+            "Height": 812,
+            "UserAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"
+          }
+        },
+        "Web": {
+          "__type": "ArtOfTest.WebAii.Core.Settings+WebSettings",
+          "__value": {
+            "IsProfilingExecution": false,
+            "ExecutingBrowsers": [],
+            "UseMultiBrowserExecution": false,
+            "RecycleBrowser": false,
+            "AspNetDevServerPort": -1,
+            "LocalWebServer": 0,
+            "EnableUILessRequestViewing": false,
+            "WebAppPhysicalPath": "",
+            "DefaultBrowser": 7,
+            "EnableScriptLogging": false,
+            "BaseUrl": "",
+            "KillBrowserProcessOnClose": false,
+            "KillBrowsersBeforeStart": true,
+            "AutoCalibrateBrowsers": false,
+            "UseHttpProxy": false,
+            "EnableSilverlight": false,
+            "VerboseHttpProxy": false,
+            "SilverlightConnectTimeout": 60000,
+            "SilverlightApplicationPath": null,
+            "WebComponents": true
+          }
+        },
+        "Wpf": {
+          "__type": "ArtOfTest.WebAii.Core.Settings+WpfSettings",
+          "__value": {
+            "DefaultApplicationPath": null
+          }
+        },
+        "CreateLogFile": true,
+        "LogLocation": "C:\\WebAiiLog\\",
+        "QueryEventLogErrorsOnExit": false,
+        "LogAnnotations": false,
+        "SimulatedMouseMoveSpeed": 0.3,
+        "ExecuteInDevelopmentTests": false,
+        "WaitCheckInterval": 500,
+        "ElementWaitTimeout": 15000,
+        "SearchByImageFirst": false,
+        "ExecuteCommandTimeout": 20000,
+        "ExecutionDelay": 0,
+        "RerunFailedTests": false,
+        "UnexpectedDialogAction": 2,
+        "AnnotateExecution": false,
+        "AnnotationMode": 0,
+        "RecordingMode": 0,
+        "RecordingCodec": 0,
+        "RecordingScale": 100,
+        "RecordingFPS": 5,
+        "RecordingOutputLocation": "",
+        "RecordingSizeLimit": 0,
+        "XMultiMgr": true,
+        "ClientReadyTimeout": 60000,
+        "DisableDialogMonitoring": false,
+        "RunnerResponseTimeout": 0.0,
+        "EnableImageSearch": true,
+        "ElementImageSearchTimeout": 15000,
+        "ElementImageSearchDelay": 300,
+        "ScrollOnImageSearch": true
+      }
+    },
+    "Tests": [
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "284070de-229b-415d-8ef1-87fc15398bed",
+          "Path": "PBCSUAT - SYSAUDIT.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "f9755ac6-1546-4cbc-9745-ee34e86660a9",
+          "Path": "ZAFIUAT - SYSAUDIT.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "9a1919a6-5455-427d-bd05-67016c1dd76f",
+          "Path": "ZAHRUAT - SYSAUDIT.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "167194ed-e491-4cce-9798-02daa361881d",
+          "Path": "ZAIHUAT - SYSAUDIT.tstest",
+          "PathType": 0
+        }
+      }
+    ],
+    "Filter": {
+      "__type": "ArtOfTest.WebAii.Design.Execution.Filter",
+      "__value": {
+        "Keys": [],
+        "Comparisons": [],
+        "Values": []
+      }
+    },
+    "ListType": 0,
+    "ProjectId": "720c5e63-3beb-434d-95c9-d56048d225fc"
+  }
+}

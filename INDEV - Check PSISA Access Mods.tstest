@@ -1,0 +1,1320 @@
+{
+  "__type": "ArtOfTest.WebAii.Design.ProjectModel.Test",
+  "__value": {
+    "DomStatesCounter": {},
+    "WebKitExecutionDelay": 0,
+    "ReuseAppWindow": 0,
+    "ProfilerResultsDirectory": null,
+    "ProfilerBenchmarkResultsFilePath": null,
+    "ProfilerBenchmarkResultsId": "00000000-0000-0000-0000-000000000000",
+    "ProfilerConfigurationId": "00000000-0000-0000-0000-000000000000",
+    "ProfilerConfigurations": {},
+    "CurrentReferences": [
+      "System",
+      "System.Core",
+      "ArtOfTest.WebAii, Version=2021.1.616.0, Culture=neutral, PublicKeyToken=4fd5f65be123776c",
+      "ArtOfTest.WebAii.Design, Version=2021.1.616.0, Culture=neutral, PublicKeyToken=4fc62bbc3827ab1d",
+      "Telerik.WebAii.Controls.Html, Version=2021.1.616.0, Culture=neutral, PublicKeyToken=528163f3e645de45",
+      "Telerik.WebAii.Controls.Xaml, Version=2021.1.616.0, Culture=neutral, PublicKeyToken=528163f3e645de45",
+      "Telerik.WebAii.Controls.Xaml.Wpf, Version=2021.1.616.0, Culture=neutral, PublicKeyToken=528163f3e645de45",
+      "Telerik.TestingFramework.Controls.KendoUI, Version=2021.1.616.0, Culture=neutral, PublicKeyToken=528163f3e645de45",
+      "Telerik.TestingFramework.Controls.KendoUI.Angular, Version=2021.1.616.0, Culture=neutral, PublicKeyToken=528163f3e645de45",
+      "Telerik.TestingFramework.Controls.TelerikUI.Blazor, Version=2021.1.616.0, Culture=neutral, PublicKeyToken=528163f3e645de45",
+      "Telerik.TestStudio.Translators.Common, Version=2021.1.616.0, Culture=neutral, PublicKeyToken=528163f3e645de45",
+      "System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089",
+      "Microsoft.VisualBasic, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
+    ],
+    "Steps": {
+      "__type": "ArtOfTest.Common.Design.ProjectModel.AutomationStepList",
+      "__value": [
+        {
+          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+          "__value": {
+            "Runtime ID": "de9de702-0345-4773-b5a8-eea40299e9b1",
+            "Description": "Execute test 'Open ZAIHTST'",
+            "CustomDescription": null,
+            "Step": {
+              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ExecuteTestActionDescriptor",
+              "__value": {
+                "WaitOnElementsTimeout": 0,
+                "UseStepWaitOnElementsTimout": false,
+                "WaitOnElements": false,
+                "SearchByImageFirst": 0,
+                "TestName": "Open ZAIHTST",
+                "TestPath": "Open ZAIHTST.tstest",
+                "TestUniqueId": "54f6d1f0-3953-46b6-bc48-90c1e3f9975b",
+                "Pause": 0,
+                "RunsAgainstVersion": "",
+                "Constraints": {
+                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                  "__value": {
+                    "ConstraintValues": {}
+                  }
+                },
+                "Elements": {},
+                "StepType": 4,
+                "LogMessageOnFailure": "",
+                "EditorType": "",
+                "DataBindingExpressions": {}
+              }
+            },
+            "Enabled": true,
+            "Order": 1,
+            "Id": "",
+            "StepState": 0,
+            "ContinueOnFailure": false,
+            "StepImageKey": "Check PSISA Access Modsu2fsewtg.2p3",
+            "QcId": 0,
+            "QcVersionStamp": 0,
+            "Version": 200
+          }
+        },
+        {
+          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+          "__value": {
+            "Runtime ID": "a76ea8e5-d5ba-42a5-964e-17e7429c3359",
+            "Description": "'Maximize' the browser.",
+            "CustomDescription": null,
+            "Step": {
+              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ChangeBrowserStateActionDescriptor",
+              "__value": {
+                "BrowserStateAction": 0,
+                "WaitOnElements": true,
+                "WaitOnElementsTimeout": 30000,
+                "UseStepWaitOnElementsTimout": false,
+                "SearchByImageFirst": 0,
+                "ClosesBrowser": false,
+                "AjaxTimeout": 0,
+                "UsejQuery": false,
+                "Pause": 0,
+                "RunsAgainstVersion": "",
+                "Constraints": {
+                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                  "__value": {
+                    "ConstraintValues": {}
+                  }
+                },
+                "Elements": {},
+                "StepType": 4,
+                "LogMessageOnFailure": "",
+                "EditorType": "",
+                "DataBindingExpressions": {}
+              }
+            },
+            "Enabled": true,
+            "Order": 2,
+            "Id": "",
+            "StepState": 0,
+            "ContinueOnFailure": false,
+            "StepImageKey": "Check PSISA Access Modstoe4kxxy.whx",
+            "QcId": 0,
+            "QcVersionStamp": 0,
+            "Version": 200
+          }
+        },
+        {
+          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+          "__value": {
+            "Runtime ID": "dd6b9be4-21ec-4d56-b35a-c6bcadbd0ff2",
+            "Description": "Execute test 'General Login'",
+            "CustomDescription": null,
+            "Step": {
+              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ExecuteTestActionDescriptor",
+              "__value": {
+                "WaitOnElementsTimeout": 0,
+                "UseStepWaitOnElementsTimout": false,
+                "WaitOnElements": false,
+                "SearchByImageFirst": 0,
+                "TestName": "General Login",
+                "TestPath": "General Login.tstest",
+                "TestUniqueId": "54720680-6318-483c-943a-db1c53a72f2c",
+                "Pause": 0,
+                "RunsAgainstVersion": "",
+                "Constraints": {
+                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                  "__value": {
+                    "ConstraintValues": {}
+                  }
+                },
+                "Elements": {},
+                "StepType": 4,
+                "LogMessageOnFailure": "",
+                "EditorType": "",
+                "DataBindingExpressions": {}
+              }
+            },
+            "Enabled": true,
+            "Order": 3,
+            "Id": "",
+            "StepState": 0,
+            "ContinueOnFailure": false,
+            "StepImageKey": "Check PSISA Access Mods2rq0t4nz.1cg",
+            "QcId": 0,
+            "QcVersionStamp": 0,
+            "Version": 200
+          }
+        },
+        {
+          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+          "__value": {
+            "Runtime ID": "4d20671a-ad7f-4da9-843f-9f93b307fa2e",
+            "Description": "Navigate to : 'https://zaih-tst.utshare.utsystem.edu/psp/ZAIHTST/EMPLOYEE/HRMS/c/MAINTAIN_SECURITY.USERMAINT_DIST.GBL?cmd=uninav&Rnode=HRMS&uninavpath=Root%7bPORTAL_ROOT_OBJECT%7d.NO_CRUMB%7bPTUN_11362845700088328%2cPORTAL_ROOT_OBJECT%7d.Distributed%20User%20Profiles%7bPT_USERMAINT_DIST_GBL%7d'",
+            "CustomDescription": null,
+            "Step": {
+              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.NavigateToActionDescriptor",
+              "__value": {
+                "UseDecodedUrl": true,
+                "NavigateURL": "https://zaih-tst.utshare.utsystem.edu/psp/ZAIHTST/EMPLOYEE/HRMS/c/MAINTAIN_SECURITY.USERMAINT_DIST.GBL?cmd=uninav&Rnode=HRMS&uninavpath=Root%7bPORTAL_ROOT_OBJECT%7d.NO_CRUMB%7bPTUN_11362845700088328%2cPORTAL_ROOT_OBJECT%7d.Distributed%20User%20Profiles%7bPT_USERMAINT_DIST_GBL%7d",
+                "BaseUrl": "",
+                "SearchByImageFirst": 0,
+                "WaitOnElementsTimeout": 0,
+                "UseStepWaitOnElementsTimout": false,
+                "WaitOnElements": false,
+                "UsejQuery": false,
+                "ClosesBrowser": false,
+                "AjaxTimeout": 0,
+                "Pause": 0,
+                "RunsAgainstVersion": "",
+                "Constraints": {
+                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                  "__value": {
+                    "ConstraintValues": {}
+                  }
+                },
+                "Elements": {},
+                "StepType": 4,
+                "LogMessageOnFailure": "",
+                "EditorType": "",
+                "DataBindingExpressions": {}
+              }
+            },
+            "Enabled": true,
+            "Order": 4,
+            "Id": "",
+            "StepState": 0,
+            "ContinueOnFailure": false,
+            "StepImageKey": "Check PSISA Access Modsvcavftlf.rog",
+            "QcId": 0,
+            "QcVersionStamp": 0,
+            "Version": 200
+          }
+        },
+        {
+          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+          "__value": {
+            "Runtime ID": "769131c2-7e3c-46e5-9b33-c050c74bf55e",
+            "Description": "Enter text 'CH_TEST_USER' in 'PSOPRDEFNSRCHOPRIDText'",
+            "CustomDescription": null,
+            "Step": {
+              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.SetTextActionDescriptor",
+              "__value": {
+                "RawText": "CH_TEST_USER",
+                "SimulateRealTyping": true,
+                "TypingSpeed": 50,
+                "KeyHoldTime": 100,
+                "IsPassword": false,
+                "TypingInfo": {
+                  "ElementText": "CH_TEST_USER",
+                  "TypedText": "CH-TEST-USER",
+                  "CaretPosition": 12,
+                  "IsTextArea": false,
+                  "IsBackSpace": false
+                },
+                "Encrypt": false,
+                "SupportUnicode": true,
+                "ScrollToVisibleType": 2,
+                "UsejQuery": false,
+                "ClosesBrowser": false,
+                "AjaxTimeout": 0,
+                "Pause": 0,
+                "WaitOnElementsTimeout": 30000,
+                "SearchByImageFirst": 0,
+                "UseStepWaitOnElementsTimout": false,
+                "WaitOnElements": true,
+                "RunsAgainstVersion": "",
+                "Constraints": {
+                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                  "__value": {
+                    "ConstraintValues": {}
+                  }
+                },
+                "Elements": {
+                  "textTarget": {
+                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
+                    "__value": {
+                      "Name": "textTarget",
+                      "Region": null,
+                      "Page": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
+                        "__value": {
+                          "Path": "https://zaih-tst.utshare.utsystem.edu/psp/ZAIHTST/EMPLOYEE/HRMS/c/MAINTAIN_SECURITY.USERMAINT_DIST.GBL",
+                          "Query": "?cmd=uninav&Rnode=HRMS&uninavpath=Root%7bPORTAL_ROOT_OBJECT%7d.NO_CRUMB%7bPTUN_11362845700088328%2cPORTAL_ROOT_OBJECT%7d.Distributed%20User%20Profiles%7bPT_USERMAINT_DIST_GBL%7d",
+                          "BaseUrl": "",
+                          "EquivalentUrls": [],
+                          "Fragment": "",
+                          "Title": "Distributed User Profiles",
+                          "CompareMode": 1,
+                          "AlwaysUseTitleInCompare": false,
+                          "FriendlyName": "DistributedUserProfiles"
+                        }
+                      },
+                      "Frame": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.Frame",
+                        "__value": {
+                          "FrameInfo": {
+                            "__type": "ArtOfTest.WebAii.Core.FrameInfo",
+                            "__value": {
+                              "_index": 0,
+                              "_name": "TargetContent",
+                              "_id": "ptifrmtgtframe",
+                              "TestStudioTag": "",
+                              "_baseURL": "https://zahr-tst.utshare.utsystem.edu/psc/ZAHRTST/EMPLOYEE/HRMS/c/MAINTAIN_SECURITY.USERMAINT_DIST.GBL",
+                              "_query": "cmd=uninav&Rnode=HRMS&uninavpath=Root{PORTAL_ROOT_OBJECT}.NO_CRUMB{PTUN_11362845700088328,PORTAL_ROOT_OBJECT}.Distributed User Profiles{PT_USERMAINT_DIST_GBL}&PortalActualURL=https://zahr-tst.utshare.utsystem.edu/psc/ZAHRTST/EMPLOYEE/HRMS/c/MAINTAIN_SECURITY.USERMAINT_DIST.GBL?cmd=uninav&Rnode=HRMS&uninavpath=Root%7bPORTAL_ROOT_OBJECT%7d.NO_CRUMB%7bPTUN_11362845700088328%2cPORTAL_ROOT_OBJECT%7d.Distributed%20User%20Profiles%7bPT_USERMAINT_DIST_GBL%7d&PortalContentURL=https://zahr-tst.utshare.utsystem.edu/psc/ZAHRTST/EMPLOYEE/HRMS/c/MAINTAIN_SECURITY.USERMAINT_DIST.GBL&PortalContentProvider=HRMS&PortalCRefLabel=Distributed User Profiles&PortalRegistryName=EMPLOYEE&PortalServletURI=https://zaih-tst.utshare.utsystem.edu/psp/ZAIHTST/&PortalURI=https://zaih-tst.utshare.utsystem.edu/psc/ZAIHTST/&PortalHostNode=EMPL&NoCrumbs=yes&PortalKeyStruct=yes",
+                              "_useQuery": false,
+                              "_usesBaseUrlHost": false
+                            }
+                          },
+                          "FriendlyName": "FramePtifrmtgtframe"
+                        }
+                      },
+                      "FindExpression": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
+                        "__value": {
+                          "uniqueKey": "TgOuSahv1ytaDajzc5IHRjPApBk=",
+                          "NodeKind": 4,
+                          "TechnologyType": 1,
+                          "Name": "PSOPRDEFNSRCHOPRIDText",
+                          "FindExpressions": [
+                            {
+                              "Key": 1,
+                              "Value": {
+                                "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
+                                "__value": {
+                                  "Clauses": [
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "id=PSOPRDEFN_SRCH_OPRID"
+                                      }
+                                    },
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "tagname=input"
+                                      }
+                                    }
+                                  ],
+                                  "Constraints": [],
+                                  "ChainStops": []
+                                }
+                              }
+                            }
+                          ],
+                          "BackupSearchClause": "/html[1]/body[1]/form[1]/div[5]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/table[1]/tbody[1]/tr[1]/td[3]/div[1]/input[1]",
+                          "ImageSearchClauses": [],
+                          "DataBindingExpressions": {}
+                        }
+                      },
+                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlInputText",
+                      "IsIndependent": false,
+                      "DomStateKey": "",
+                      "TechnologyType": 1,
+                      "Version": 200
+                    }
+                  }
+                },
+                "StepType": 4,
+                "LogMessageOnFailure": "",
+                "EditorType": "",
+                "DataBindingExpressions": {},
+                "_canEncrypt": false,
+                "_cipher": null
+              }
+            },
+            "Enabled": true,
+            "Order": 5,
+            "Id": "",
+            "StepState": 0,
+            "ContinueOnFailure": false,
+            "StepImageKey": "Check PSISA Access Modsmptomr1y.rf2",
+            "QcId": 0,
+            "QcVersionStamp": 0,
+            "Version": 200
+          }
+        },
+        {
+          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+          "__value": {
+            "Runtime ID": "9d62c953-ad3d-4a61-8af3-d799c13cfccc",
+            "Description": "Keyboard (KeyPress) - Enter (1 times) on 'PSOPRDEFNSRCHOPRIDText'",
+            "CustomDescription": null,
+            "Step": {
+              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.DesktopKeyboardActionDescriptor",
+              "__value": {
+                "focus": true,
+                "KeyPress": "Enter",
+                "HoldFor": 150,
+                "Action": 0,
+                "RepeatCount": 1,
+                "UsejQuery": false,
+                "ClosesBrowser": false,
+                "AjaxTimeout": 0,
+                "Pause": 0,
+                "WaitOnElementsTimeout": 30000,
+                "SearchByImageFirst": 0,
+                "UseStepWaitOnElementsTimout": false,
+                "WaitOnElements": true,
+                "RunsAgainstVersion": "",
+                "Constraints": {
+                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                  "__value": {
+                    "ConstraintValues": {}
+                  }
+                },
+                "Elements": {
+                  "target": {
+                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
+                    "__value": {
+                      "Name": "target",
+                      "Region": null,
+                      "Page": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
+                        "__value": {
+                          "Path": "https://zaih-tst.utshare.utsystem.edu/psp/ZAIHTST/EMPLOYEE/HRMS/c/MAINTAIN_SECURITY.USERMAINT_DIST.GBL",
+                          "Query": "?cmd=uninav&Rnode=HRMS&uninavpath=Root%7bPORTAL_ROOT_OBJECT%7d.NO_CRUMB%7bPTUN_11362845700088328%2cPORTAL_ROOT_OBJECT%7d.Distributed%20User%20Profiles%7bPT_USERMAINT_DIST_GBL%7d",
+                          "BaseUrl": "",
+                          "EquivalentUrls": [],
+                          "Fragment": "",
+                          "Title": "Distributed User Profiles",
+                          "CompareMode": 1,
+                          "AlwaysUseTitleInCompare": false,
+                          "FriendlyName": "DistributedUserProfiles"
+                        }
+                      },
+                      "Frame": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.Frame",
+                        "__value": {
+                          "FrameInfo": {
+                            "__type": "ArtOfTest.WebAii.Core.FrameInfo",
+                            "__value": {
+                              "_index": 0,
+                              "_name": "TargetContent",
+                              "_id": "ptifrmtgtframe",
+                              "TestStudioTag": "",
+                              "_baseURL": "https://zahr-tst.utshare.utsystem.edu/psc/ZAHRTST/EMPLOYEE/HRMS/c/MAINTAIN_SECURITY.USERMAINT_DIST.GBL",
+                              "_query": "cmd=uninav&Rnode=HRMS&uninavpath=Root{PORTAL_ROOT_OBJECT}.NO_CRUMB{PTUN_11362845700088328,PORTAL_ROOT_OBJECT}.Distributed User Profiles{PT_USERMAINT_DIST_GBL}&PortalActualURL=https://zahr-tst.utshare.utsystem.edu/psc/ZAHRTST/EMPLOYEE/HRMS/c/MAINTAIN_SECURITY.USERMAINT_DIST.GBL?cmd=uninav&Rnode=HRMS&uninavpath=Root%7bPORTAL_ROOT_OBJECT%7d.NO_CRUMB%7bPTUN_11362845700088328%2cPORTAL_ROOT_OBJECT%7d.Distributed%20User%20Profiles%7bPT_USERMAINT_DIST_GBL%7d&PortalContentURL=https://zahr-tst.utshare.utsystem.edu/psc/ZAHRTST/EMPLOYEE/HRMS/c/MAINTAIN_SECURITY.USERMAINT_DIST.GBL&PortalContentProvider=HRMS&PortalCRefLabel=Distributed User Profiles&PortalRegistryName=EMPLOYEE&PortalServletURI=https://zaih-tst.utshare.utsystem.edu/psp/ZAIHTST/&PortalURI=https://zaih-tst.utshare.utsystem.edu/psc/ZAIHTST/&PortalHostNode=EMPL&NoCrumbs=yes&PortalKeyStruct=yes",
+                              "_useQuery": false,
+                              "_usesBaseUrlHost": false
+                            }
+                          },
+                          "FriendlyName": "FramePtifrmtgtframe"
+                        }
+                      },
+                      "FindExpression": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
+                        "__value": {
+                          "uniqueKey": "TgOuSahv1ytaDajzc5IHRjPApBk=",
+                          "NodeKind": 4,
+                          "TechnologyType": 1,
+                          "Name": "PSOPRDEFNSRCHOPRIDText",
+                          "FindExpressions": [
+                            {
+                              "Key": 1,
+                              "Value": {
+                                "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
+                                "__value": {
+                                  "Clauses": [
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "id=PSOPRDEFN_SRCH_OPRID"
+                                      }
+                                    },
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "tagname=input"
+                                      }
+                                    }
+                                  ],
+                                  "Constraints": [],
+                                  "ChainStops": []
+                                }
+                              }
+                            }
+                          ],
+                          "BackupSearchClause": "/html[1]/body[1]/form[1]/div[5]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/table[1]/tbody[1]/tr[1]/td[3]/div[1]/input[1]",
+                          "ImageSearchClauses": [],
+                          "DataBindingExpressions": {}
+                        }
+                      },
+                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlInputText",
+                      "IsIndependent": false,
+                      "DomStateKey": "",
+                      "TechnologyType": 1,
+                      "Version": 200
+                    }
+                  }
+                },
+                "StepType": 4,
+                "LogMessageOnFailure": "",
+                "EditorType": "",
+                "DataBindingExpressions": {}
+              }
+            },
+            "Enabled": true,
+            "Order": 6,
+            "Id": "",
+            "StepState": 0,
+            "ContinueOnFailure": false,
+            "StepImageKey": "Check PSISA Access Mods3qo4bvu1.0lg",
+            "QcId": 0,
+            "QcVersionStamp": 0,
+            "Version": 200
+          }
+        },
+        {
+          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+          "__value": {
+            "Runtime ID": "70ba4ae4-eb2b-4324-83c5-f37978ab890d",
+            "Description": "Click 'SEARCHRESULT1Link'",
+            "CustomDescription": null,
+            "Step": {
+              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ClickActionDescriptor",
+              "__value": {
+                "SimulateRealClick": true,
+                "ScrollToVisibleType": 2,
+                "UsejQuery": false,
+                "ClosesBrowser": false,
+                "AjaxTimeout": 0,
+                "Pause": 0,
+                "WaitOnElementsTimeout": 30000,
+                "SearchByImageFirst": 0,
+                "UseStepWaitOnElementsTimout": false,
+                "WaitOnElements": true,
+                "RunsAgainstVersion": "",
+                "Constraints": {
+                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                  "__value": {
+                    "ConstraintValues": {}
+                  }
+                },
+                "Elements": {
+                  "target": {
+                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
+                    "__value": {
+                      "Name": "target",
+                      "Region": null,
+                      "Page": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
+                        "__value": {
+                          "Path": "https://zaih-tst.utshare.utsystem.edu/psp/ZAIHTST/EMPLOYEE/HRMS/c/MAINTAIN_SECURITY.USERMAINT_DIST.GBL",
+                          "Query": "?cmd=uninav&Rnode=HRMS&uninavpath=Root%7bPORTAL_ROOT_OBJECT%7d.NO_CRUMB%7bPTUN_11362845700088328%2cPORTAL_ROOT_OBJECT%7d.Distributed%20User%20Profiles%7bPT_USERMAINT_DIST_GBL%7d",
+                          "BaseUrl": "",
+                          "EquivalentUrls": [],
+                          "Fragment": "",
+                          "Title": "Distributed User Profiles",
+                          "CompareMode": 1,
+                          "AlwaysUseTitleInCompare": false,
+                          "FriendlyName": "DistributedUserProfiles"
+                        }
+                      },
+                      "Frame": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.Frame",
+                        "__value": {
+                          "FrameInfo": {
+                            "__type": "ArtOfTest.WebAii.Core.FrameInfo",
+                            "__value": {
+                              "_index": 0,
+                              "_name": "TargetContent",
+                              "_id": "ptifrmtgtframe",
+                              "TestStudioTag": "",
+                              "_baseURL": "https://zahr-tst.utshare.utsystem.edu/psc/ZAHRTST/EMPLOYEE/HRMS/c/MAINTAIN_SECURITY.USERMAINT_DIST.GBL",
+                              "_query": "cmd=uninav&Rnode=HRMS&uninavpath=Root{PORTAL_ROOT_OBJECT}.NO_CRUMB{PTUN_11362845700088328,PORTAL_ROOT_OBJECT}.Distributed User Profiles{PT_USERMAINT_DIST_GBL}&PortalActualURL=https://zahr-tst.utshare.utsystem.edu/psc/ZAHRTST/EMPLOYEE/HRMS/c/MAINTAIN_SECURITY.USERMAINT_DIST.GBL?cmd=uninav&Rnode=HRMS&uninavpath=Root%7bPORTAL_ROOT_OBJECT%7d.NO_CRUMB%7bPTUN_11362845700088328%2cPORTAL_ROOT_OBJECT%7d.Distributed%20User%20Profiles%7bPT_USERMAINT_DIST_GBL%7d&PortalContentURL=https://zahr-tst.utshare.utsystem.edu/psc/ZAHRTST/EMPLOYEE/HRMS/c/MAINTAIN_SECURITY.USERMAINT_DIST.GBL&PortalContentProvider=HRMS&PortalCRefLabel=Distributed User Profiles&PortalRegistryName=EMPLOYEE&PortalServletURI=https://zaih-tst.utshare.utsystem.edu/psp/ZAIHTST/&PortalURI=https://zaih-tst.utshare.utsystem.edu/psc/ZAIHTST/&PortalHostNode=EMPL&NoCrumbs=yes&PortalKeyStruct=yes",
+                              "_useQuery": false,
+                              "_usesBaseUrlHost": false
+                            }
+                          },
+                          "FriendlyName": "FramePtifrmtgtframe"
+                        }
+                      },
+                      "FindExpression": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
+                        "__value": {
+                          "uniqueKey": "aQuwV2fvanlx9ZxUDxsCnntkOPI=",
+                          "NodeKind": 4,
+                          "TechnologyType": 1,
+                          "Name": "SEARCHRESULT1Link",
+                          "FindExpressions": [
+                            {
+                              "Key": 1,
+                              "Value": {
+                                "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
+                                "__value": {
+                                  "Clauses": [
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "id=SEARCH_RESULT1"
+                                      }
+                                    },
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "tagname=a"
+                                      }
+                                    }
+                                  ],
+                                  "Constraints": [],
+                                  "ChainStops": []
+                                }
+                              }
+                            }
+                          ],
+                          "BackupSearchClause": "/html[1]/body[1]/form[1]/div[5]/div[4]/table[1]/tbody[1]/tr[2]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/a[1]",
+                          "ImageSearchClauses": [],
+                          "DataBindingExpressions": {}
+                        }
+                      },
+                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlAnchor",
+                      "IsIndependent": false,
+                      "DomStateKey": "",
+                      "TechnologyType": 1,
+                      "Version": 200
+                    }
+                  }
+                },
+                "StepType": 4,
+                "LogMessageOnFailure": "",
+                "EditorType": "",
+                "DataBindingExpressions": {}
+              }
+            },
+            "Enabled": true,
+            "Order": 7,
+            "Id": "",
+            "StepState": 0,
+            "ContinueOnFailure": false,
+            "StepImageKey": "Check PSISA Access Modscn0ph1np.yhd",
+            "QcId": 0,
+            "QcVersionStamp": 0,
+            "Version": 200
+          }
+        },
+        {
+          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+          "__value": {
+            "Runtime ID": "5113fdfe-7c1f-45ed-a2cb-7eba8c718604",
+            "Description": "Click 'UserRolesSpan'",
+            "CustomDescription": null,
+            "Step": {
+              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ClickActionDescriptor",
+              "__value": {
+                "SimulateRealClick": true,
+                "ScrollToVisibleType": 2,
+                "UsejQuery": false,
+                "ClosesBrowser": false,
+                "AjaxTimeout": 0,
+                "Pause": 0,
+                "WaitOnElementsTimeout": 30000,
+                "SearchByImageFirst": 0,
+                "UseStepWaitOnElementsTimout": false,
+                "WaitOnElements": true,
+                "RunsAgainstVersion": "",
+                "Constraints": {
+                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                  "__value": {
+                    "ConstraintValues": {}
+                  }
+                },
+                "Elements": {
+                  "target": {
+                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
+                    "__value": {
+                      "Name": "target",
+                      "Region": null,
+                      "Page": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
+                        "__value": {
+                          "Path": "https://zaih-tst.utshare.utsystem.edu/psp/ZAIHTST/EMPLOYEE/HRMS/c/MAINTAIN_SECURITY.USERMAINT_DIST.GBL",
+                          "Query": "?cmd=uninav&Rnode=HRMS&uninavpath=Root%7bPORTAL_ROOT_OBJECT%7d.NO_CRUMB%7bPTUN_11362845700088328%2cPORTAL_ROOT_OBJECT%7d.Distributed%20User%20Profiles%7bPT_USERMAINT_DIST_GBL%7d",
+                          "BaseUrl": "",
+                          "EquivalentUrls": [],
+                          "Fragment": "",
+                          "Title": "Distributed User Profiles",
+                          "CompareMode": 1,
+                          "AlwaysUseTitleInCompare": false,
+                          "FriendlyName": "DistributedUserProfiles"
+                        }
+                      },
+                      "Frame": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.Frame",
+                        "__value": {
+                          "FrameInfo": {
+                            "__type": "ArtOfTest.WebAii.Core.FrameInfo",
+                            "__value": {
+                              "_index": 0,
+                              "_name": "TargetContent",
+                              "_id": "ptifrmtgtframe",
+                              "TestStudioTag": "",
+                              "_baseURL": "https://zahr-tst.utshare.utsystem.edu/psc/ZAHRTST/EMPLOYEE/HRMS/c/MAINTAIN_SECURITY.USERMAINT_DIST.GBL",
+                              "_query": "cmd=uninav&Rnode=HRMS&uninavpath=Root{PORTAL_ROOT_OBJECT}.NO_CRUMB{PTUN_11362845700088328,PORTAL_ROOT_OBJECT}.Distributed User Profiles{PT_USERMAINT_DIST_GBL}&PortalActualURL=https://zahr-tst.utshare.utsystem.edu/psc/ZAHRTST/EMPLOYEE/HRMS/c/MAINTAIN_SECURITY.USERMAINT_DIST.GBL?cmd=uninav&Rnode=HRMS&uninavpath=Root%7bPORTAL_ROOT_OBJECT%7d.NO_CRUMB%7bPTUN_11362845700088328%2cPORTAL_ROOT_OBJECT%7d.Distributed%20User%20Profiles%7bPT_USERMAINT_DIST_GBL%7d&PortalContentURL=https://zahr-tst.utshare.utsystem.edu/psc/ZAHRTST/EMPLOYEE/HRMS/c/MAINTAIN_SECURITY.USERMAINT_DIST.GBL&PortalContentProvider=HRMS&PortalCRefLabel=Distributed User Profiles&PortalRegistryName=EMPLOYEE&PortalServletURI=https://zaih-tst.utshare.utsystem.edu/psp/ZAIHTST/&PortalURI=https://zaih-tst.utshare.utsystem.edu/psc/ZAIHTST/&PortalHostNode=EMPL&NoCrumbs=yes&PortalKeyStruct=yes",
+                              "_useQuery": false,
+                              "_usesBaseUrlHost": false
+                            }
+                          },
+                          "FriendlyName": "FramePtifrmtgtframe"
+                        }
+                      },
+                      "FindExpression": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
+                        "__value": {
+                          "uniqueKey": "VNbTB+UixHt70lhLMTPuw4BPb4I=",
+                          "NodeKind": 4,
+                          "TechnologyType": 1,
+                          "Name": "UserRolesSpan",
+                          "FindExpressions": [
+                            {
+                              "Key": 1,
+                              "Value": {
+                                "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
+                                "__value": {
+                                  "Clauses": [
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "TextContent=User Roles"
+                                      }
+                                    },
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "tagname=span"
+                                      }
+                                    }
+                                  ],
+                                  "Constraints": [],
+                                  "ChainStops": []
+                                }
+                              }
+                            }
+                          ],
+                          "BackupSearchClause": "/html[1]/body[1]/form[1]/div[4]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/table[1]/tbody[1]/tr[1]/td[4]/a[1]/span[1]",
+                          "ImageSearchClauses": [],
+                          "DataBindingExpressions": {}
+                        }
+                      },
+                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlSpan",
+                      "IsIndependent": false,
+                      "DomStateKey": "",
+                      "TechnologyType": 1,
+                      "Version": 200
+                    }
+                  }
+                },
+                "StepType": 4,
+                "LogMessageOnFailure": "",
+                "EditorType": "",
+                "DataBindingExpressions": {}
+              }
+            },
+            "Enabled": true,
+            "Order": 8,
+            "Id": "",
+            "StepState": 0,
+            "ContinueOnFailure": false,
+            "StepImageKey": "Check PSISA Access Mods4nh10n5l.qwn",
+            "QcId": 0,
+            "QcVersionStamp": 0,
+            "Version": 200
+          }
+        },
+        {
+          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+          "__value": {
+            "Runtime ID": "12feada2-11e6-441a-84e5-5907b25595ad",
+            "Description": "Click 'PSROLEUSERVWNew00Link'",
+            "CustomDescription": null,
+            "Step": {
+              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ClickActionDescriptor",
+              "__value": {
+                "SimulateRealClick": true,
+                "ScrollToVisibleType": 2,
+                "UsejQuery": false,
+                "ClosesBrowser": false,
+                "AjaxTimeout": 0,
+                "Pause": 0,
+                "WaitOnElementsTimeout": 30000,
+                "SearchByImageFirst": 0,
+                "UseStepWaitOnElementsTimout": false,
+                "WaitOnElements": true,
+                "RunsAgainstVersion": "",
+                "Constraints": {
+                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                  "__value": {
+                    "ConstraintValues": {}
+                  }
+                },
+                "Elements": {
+                  "target": {
+                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
+                    "__value": {
+                      "Name": "target",
+                      "Region": null,
+                      "Page": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
+                        "__value": {
+                          "Path": "https://zaih-tst.utshare.utsystem.edu/psp/ZAIHTST/EMPLOYEE/HRMS/c/MAINTAIN_SECURITY.USERMAINT_DIST.GBL",
+                          "Query": "?cmd=uninav&Rnode=HRMS&uninavpath=Root%7bPORTAL_ROOT_OBJECT%7d.NO_CRUMB%7bPTUN_11362845700088328%2cPORTAL_ROOT_OBJECT%7d.Distributed%20User%20Profiles%7bPT_USERMAINT_DIST_GBL%7d",
+                          "BaseUrl": "",
+                          "EquivalentUrls": [],
+                          "Fragment": "",
+                          "Title": "Distributed User Profiles",
+                          "CompareMode": 1,
+                          "AlwaysUseTitleInCompare": false,
+                          "FriendlyName": "DistributedUserProfiles"
+                        }
+                      },
+                      "Frame": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.Frame",
+                        "__value": {
+                          "FrameInfo": {
+                            "__type": "ArtOfTest.WebAii.Core.FrameInfo",
+                            "__value": {
+                              "_index": 0,
+                              "_name": "TargetContent",
+                              "_id": "ptifrmtgtframe",
+                              "TestStudioTag": "",
+                              "_baseURL": "https://zahr-tst.utshare.utsystem.edu/psc/ZAHRTST/EMPLOYEE/HRMS/c/MAINTAIN_SECURITY.USERMAINT_DIST.GBL",
+                              "_query": "cmd=uninav&Rnode=HRMS&uninavpath=Root{PORTAL_ROOT_OBJECT}.NO_CRUMB{PTUN_11362845700088328,PORTAL_ROOT_OBJECT}.Distributed User Profiles{PT_USERMAINT_DIST_GBL}&PortalActualURL=https://zahr-tst.utshare.utsystem.edu/psc/ZAHRTST/EMPLOYEE/HRMS/c/MAINTAIN_SECURITY.USERMAINT_DIST.GBL?cmd=uninav&Rnode=HRMS&uninavpath=Root%7bPORTAL_ROOT_OBJECT%7d.NO_CRUMB%7bPTUN_11362845700088328%2cPORTAL_ROOT_OBJECT%7d.Distributed%20User%20Profiles%7bPT_USERMAINT_DIST_GBL%7d&PortalContentURL=https://zahr-tst.utshare.utsystem.edu/psc/ZAHRTST/EMPLOYEE/HRMS/c/MAINTAIN_SECURITY.USERMAINT_DIST.GBL&PortalContentProvider=HRMS&PortalCRefLabel=Distributed User Profiles&PortalRegistryName=EMPLOYEE&PortalServletURI=https://zaih-tst.utshare.utsystem.edu/psp/ZAIHTST/&PortalURI=https://zaih-tst.utshare.utsystem.edu/psc/ZAIHTST/&PortalHostNode=EMPL&NoCrumbs=yes&PortalKeyStruct=yes",
+                              "_useQuery": false,
+                              "_usesBaseUrlHost": false
+                            }
+                          },
+                          "FriendlyName": "FramePtifrmtgtframe"
+                        }
+                      },
+                      "FindExpression": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
+                        "__value": {
+                          "uniqueKey": "23ncsxROVyVHp4pupVnSBzfi6kk=",
+                          "NodeKind": 4,
+                          "TechnologyType": 1,
+                          "Name": "PSROLEUSERVWNew00Link",
+                          "FindExpressions": [
+                            {
+                              "Key": 1,
+                              "Value": {
+                                "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
+                                "__value": {
+                                  "Clauses": [
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "id=PSROLEUSER_VW$new$0$$0"
+                                      }
+                                    },
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "tagname=a"
+                                      }
+                                    }
+                                  ],
+                                  "Constraints": [],
+                                  "ChainStops": []
+                                }
+                              }
+                            }
+                          ],
+                          "BackupSearchClause": "/html[1]/body[1]/form[1]/div[5]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/table[1]/tbody[1]/tr[8]/td[2]/div[1]/table[1]/tbody[1]/tr[2]/td[1]/table[1]/tbody[1]/tr[2]/td[5]/div[1]/a[1]",
+                          "ImageSearchClauses": [],
+                          "DataBindingExpressions": {}
+                        }
+                      },
+                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlAnchor",
+                      "IsIndependent": false,
+                      "DomStateKey": "",
+                      "TechnologyType": 1,
+                      "Version": 200
+                    }
+                  }
+                },
+                "StepType": 4,
+                "LogMessageOnFailure": "",
+                "EditorType": "",
+                "DataBindingExpressions": {}
+              }
+            },
+            "Enabled": true,
+            "Order": 9,
+            "Id": "",
+            "StepState": 0,
+            "ContinueOnFailure": false,
+            "StepImageKey": "Check PSISA Access Modsi3qtyppp.ssb",
+            "QcId": 0,
+            "QcVersionStamp": 0,
+            "Version": 200
+          }
+        },
+        {
+          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+          "__value": {
+            "Runtime ID": "18c3fee6-878b-4703-9d46-a03a3d3d3723",
+            "Description": "Click 'PSROLEUSERVWROLENAMEPromptImg1Image'",
+            "CustomDescription": null,
+            "Step": {
+              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ClickActionDescriptor",
+              "__value": {
+                "SimulateRealClick": true,
+                "ScrollToVisibleType": 2,
+                "UsejQuery": false,
+                "ClosesBrowser": false,
+                "AjaxTimeout": 0,
+                "Pause": 0,
+                "WaitOnElementsTimeout": 30000,
+                "SearchByImageFirst": 0,
+                "UseStepWaitOnElementsTimout": false,
+                "WaitOnElements": true,
+                "RunsAgainstVersion": "",
+                "Constraints": {
+                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                  "__value": {
+                    "ConstraintValues": {}
+                  }
+                },
+                "Elements": {
+                  "target": {
+                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
+                    "__value": {
+                      "Name": "target",
+                      "Region": null,
+                      "Page": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
+                        "__value": {
+                          "Path": "https://zaih-tst.utshare.utsystem.edu/psp/ZAIHTST/EMPLOYEE/HRMS/c/MAINTAIN_SECURITY.USERMAINT_DIST.GBL",
+                          "Query": "?cmd=uninav&Rnode=HRMS&uninavpath=Root%7bPORTAL_ROOT_OBJECT%7d.NO_CRUMB%7bPTUN_11362845700088328%2cPORTAL_ROOT_OBJECT%7d.Distributed%20User%20Profiles%7bPT_USERMAINT_DIST_GBL%7d",
+                          "BaseUrl": "",
+                          "EquivalentUrls": [],
+                          "Fragment": "",
+                          "Title": "Distributed User Profiles",
+                          "CompareMode": 1,
+                          "AlwaysUseTitleInCompare": false,
+                          "FriendlyName": "DistributedUserProfiles"
+                        }
+                      },
+                      "Frame": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.Frame",
+                        "__value": {
+                          "FrameInfo": {
+                            "__type": "ArtOfTest.WebAii.Core.FrameInfo",
+                            "__value": {
+                              "_index": 0,
+                              "_name": "TargetContent",
+                              "_id": "ptifrmtgtframe",
+                              "TestStudioTag": "",
+                              "_baseURL": "https://zahr-tst.utshare.utsystem.edu/psc/ZAHRTST/EMPLOYEE/HRMS/c/MAINTAIN_SECURITY.USERMAINT_DIST.GBL",
+                              "_query": "cmd=uninav&Rnode=HRMS&uninavpath=Root{PORTAL_ROOT_OBJECT}.NO_CRUMB{PTUN_11362845700088328,PORTAL_ROOT_OBJECT}.Distributed User Profiles{PT_USERMAINT_DIST_GBL}&PortalActualURL=https://zahr-tst.utshare.utsystem.edu/psc/ZAHRTST/EMPLOYEE/HRMS/c/MAINTAIN_SECURITY.USERMAINT_DIST.GBL?cmd=uninav&Rnode=HRMS&uninavpath=Root%7bPORTAL_ROOT_OBJECT%7d.NO_CRUMB%7bPTUN_11362845700088328%2cPORTAL_ROOT_OBJECT%7d.Distributed%20User%20Profiles%7bPT_USERMAINT_DIST_GBL%7d&PortalContentURL=https://zahr-tst.utshare.utsystem.edu/psc/ZAHRTST/EMPLOYEE/HRMS/c/MAINTAIN_SECURITY.USERMAINT_DIST.GBL&PortalContentProvider=HRMS&PortalCRefLabel=Distributed User Profiles&PortalRegistryName=EMPLOYEE&PortalServletURI=https://zaih-tst.utshare.utsystem.edu/psp/ZAIHTST/&PortalURI=https://zaih-tst.utshare.utsystem.edu/psc/ZAIHTST/&PortalHostNode=EMPL&NoCrumbs=yes&PortalKeyStruct=yes",
+                              "_useQuery": false,
+                              "_usesBaseUrlHost": false
+                            }
+                          },
+                          "FriendlyName": "FramePtifrmtgtframe"
+                        }
+                      },
+                      "FindExpression": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
+                        "__value": {
+                          "uniqueKey": "ZxAREWdmU6EbOtq0vRSG1XdvtPE=",
+                          "NodeKind": 4,
+                          "TechnologyType": 1,
+                          "Name": "PSROLEUSERVWROLENAMEPromptImg1Image",
+                          "FindExpressions": [
+                            {
+                              "Key": 1,
+                              "Value": {
+                                "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
+                                "__value": {
+                                  "Clauses": [
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "id=PSROLEUSER_VW_ROLENAME$prompt$img$1"
+                                      }
+                                    },
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "tagname=img"
+                                      }
+                                    }
+                                  ],
+                                  "Constraints": [],
+                                  "ChainStops": []
+                                }
+                              }
+                            }
+                          ],
+                          "BackupSearchClause": "/html[1]/body[1]/form[1]/div[5]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/table[1]/tbody[1]/tr[8]/td[2]/div[1]/table[1]/tbody[1]/tr[2]/td[1]/table[1]/tbody[1]/tr[3]/td[1]/div[1]/a[1]/img[1]",
+                          "ImageSearchClauses": [],
+                          "DataBindingExpressions": {}
+                        }
+                      },
+                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlImage",
+                      "IsIndependent": false,
+                      "DomStateKey": "",
+                      "TechnologyType": 1,
+                      "Version": 200
+                    }
+                  }
+                },
+                "StepType": 4,
+                "LogMessageOnFailure": "",
+                "EditorType": "",
+                "DataBindingExpressions": {}
+              }
+            },
+            "Enabled": true,
+            "Order": 10,
+            "Id": "",
+            "StepState": 0,
+            "ContinueOnFailure": false,
+            "StepImageKey": "Check PSISA Access Modspllz42r3.u43",
+            "QcId": 0,
+            "QcVersionStamp": 0,
+            "Version": 200
+          }
+        },
+        {
+          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+          "__value": {
+            "Runtime ID": "4517d74d-861f-4178-86a2-7936196b6150",
+            "Description": "Enter text 'People' in 'PSROLEGRANTVWROLENAMEText'",
+            "CustomDescription": null,
+            "Step": {
+              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.SetTextActionDescriptor",
+              "__value": {
+                "RawText": "People",
+                "SimulateRealTyping": true,
+                "TypingSpeed": 50,
+                "KeyHoldTime": 100,
+                "IsPassword": false,
+                "TypingInfo": {
+                  "ElementText": "People",
+                  "TypedText": "CapsLockpeople",
+                  "CaretPosition": 6,
+                  "IsTextArea": false,
+                  "IsBackSpace": false
+                },
+                "Encrypt": false,
+                "SupportUnicode": true,
+                "ScrollToVisibleType": 2,
+                "UsejQuery": false,
+                "ClosesBrowser": false,
+                "AjaxTimeout": 0,
+                "Pause": 0,
+                "WaitOnElementsTimeout": 30000,
+                "SearchByImageFirst": 0,
+                "UseStepWaitOnElementsTimout": false,
+                "WaitOnElements": true,
+                "RunsAgainstVersion": "",
+                "Constraints": {
+                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                  "__value": {
+                    "ConstraintValues": {}
+                  }
+                },
+                "Elements": {
+                  "textTarget": {
+                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
+                    "__value": {
+                      "Name": "textTarget",
+                      "Region": null,
+                      "Page": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
+                        "__value": {
+                          "Path": "https://zaih-tst.utshare.utsystem.edu/psp/ZAIHTST/EMPLOYEE/HRMS/c/MAINTAIN_SECURITY.USERMAINT_DIST.GBL",
+                          "Query": "?cmd=uninav&Rnode=HRMS&uninavpath=Root%7bPORTAL_ROOT_OBJECT%7d.NO_CRUMB%7bPTUN_11362845700088328%2cPORTAL_ROOT_OBJECT%7d.Distributed%20User%20Profiles%7bPT_USERMAINT_DIST_GBL%7d",
+                          "BaseUrl": "",
+                          "EquivalentUrls": [],
+                          "Fragment": "",
+                          "Title": "Distributed User Profiles",
+                          "CompareMode": 1,
+                          "AlwaysUseTitleInCompare": false,
+                          "FriendlyName": "DistributedUserProfiles"
+                        }
+                      },
+                      "Frame": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.Frame",
+                        "__value": {
+                          "FrameInfo": {
+                            "__type": "ArtOfTest.WebAii.Core.FrameInfo",
+                            "__value": {
+                              "_index": 1,
+                              "_name": "ptModFrame_0",
+                              "_id": "ptModFrame_0",
+                              "TestStudioTag": "",
+                              "_baseURL": "https://zahr-tst.utshare.utsystem.edu/psc/ZAHRTST/EMPLOYEE/HRMS/c/MAINTAIN_SECURITY.USERMAINT_DIST.GBL",
+                              "_query": "ICType=Panel&ICElementNum=0&ICStateNum=7&ICResubmit=1&ICAJAX=1&",
+                              "_useQuery": false,
+                              "_usesBaseUrlHost": false
+                            }
+                          },
+                          "FriendlyName": "FramePtModFrame0"
+                        }
+                      },
+                      "FindExpression": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
+                        "__value": {
+                          "uniqueKey": "ZCTGpaU9XC12YjQqbJGzE0k90y4=",
+                          "NodeKind": 4,
+                          "TechnologyType": 1,
+                          "Name": "PSROLEGRANTVWROLENAMEText",
+                          "FindExpressions": [
+                            {
+                              "Key": 1,
+                              "Value": {
+                                "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
+                                "__value": {
+                                  "Clauses": [
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "id=PSROLEGRANTVW_ROLENAME"
+                                      }
+                                    },
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "tagname=input"
+                                      }
+                                    }
+                                  ],
+                                  "Constraints": [],
+                                  "ChainStops": []
+                                }
+                              }
+                            }
+                          ],
+                          "BackupSearchClause": "/html[1]/body[1]/form[1]/div[3]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/table[1]/tbody[1]/tr[1]/td[3]/div[1]/input[1]",
+                          "ImageSearchClauses": [],
+                          "DataBindingExpressions": {}
+                        }
+                      },
+                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlInputText",
+                      "IsIndependent": false,
+                      "DomStateKey": "",
+                      "TechnologyType": 1,
+                      "Version": 200
+                    }
+                  }
+                },
+                "StepType": 4,
+                "LogMessageOnFailure": "",
+                "EditorType": "",
+                "DataBindingExpressions": {},
+                "_canEncrypt": false,
+                "_cipher": null
+              }
+            },
+            "Enabled": true,
+            "Order": 11,
+            "Id": "",
+            "StepState": 0,
+            "ContinueOnFailure": false,
+            "StepImageKey": "Check PSISA Access Modsbnm5co0z.3k4",
+            "QcId": 0,
+            "QcVersionStamp": 0,
+            "Version": 200
+          }
+        },
+        {
+          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+          "__value": {
+            "Runtime ID": "d374037a-5ad1-4216-823f-55857927e07d",
+            "Description": "Keyboard (KeyPress) - Enter (1 times) on 'PSROLEGRANTVWROLENAMEText'",
+            "CustomDescription": null,
+            "Step": {
+              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.DesktopKeyboardActionDescriptor",
+              "__value": {
+                "focus": true,
+                "KeyPress": "Enter",
+                "HoldFor": 150,
+                "Action": 0,
+                "RepeatCount": 1,
+                "UsejQuery": false,
+                "ClosesBrowser": false,
+                "AjaxTimeout": 0,
+                "Pause": 0,
+                "WaitOnElementsTimeout": 30000,
+                "SearchByImageFirst": 0,
+                "UseStepWaitOnElementsTimout": false,
+                "WaitOnElements": true,
+                "RunsAgainstVersion": "",
+                "Constraints": {
+                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                  "__value": {
+                    "ConstraintValues": {}
+                  }
+                },
+                "Elements": {
+                  "target": {
+                    "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.ElementDescriptor",
+                    "__value": {
+                      "Name": "target",
+                      "Region": null,
+                      "Page": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.PageUri",
+                        "__value": {
+                          "Path": "https://zaih-tst.utshare.utsystem.edu/psp/ZAIHTST/EMPLOYEE/HRMS/c/MAINTAIN_SECURITY.USERMAINT_DIST.GBL",
+                          "Query": "?cmd=uninav&Rnode=HRMS&uninavpath=Root%7bPORTAL_ROOT_OBJECT%7d.NO_CRUMB%7bPTUN_11362845700088328%2cPORTAL_ROOT_OBJECT%7d.Distributed%20User%20Profiles%7bPT_USERMAINT_DIST_GBL%7d",
+                          "BaseUrl": "",
+                          "EquivalentUrls": [],
+                          "Fragment": "",
+                          "Title": "Distributed User Profiles",
+                          "CompareMode": 1,
+                          "AlwaysUseTitleInCompare": false,
+                          "FriendlyName": "DistributedUserProfiles"
+                        }
+                      },
+                      "Frame": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.Frame",
+                        "__value": {
+                          "FrameInfo": {
+                            "__type": "ArtOfTest.WebAii.Core.FrameInfo",
+                            "__value": {
+                              "_index": 1,
+                              "_name": "ptModFrame_0",
+                              "_id": "ptModFrame_0",
+                              "TestStudioTag": "",
+                              "_baseURL": "https://zahr-tst.utshare.utsystem.edu/psc/ZAHRTST/EMPLOYEE/HRMS/c/MAINTAIN_SECURITY.USERMAINT_DIST.GBL",
+                              "_query": "ICType=Panel&ICElementNum=0&ICStateNum=7&ICResubmit=1&ICAJAX=1&",
+                              "_useQuery": false,
+                              "_usesBaseUrlHost": false
+                            }
+                          },
+                          "FriendlyName": "FramePtModFrame0"
+                        }
+                      },
+                      "FindExpression": {
+                        "__type": "ArtOfTest.WebAii.Design.ProjectModel.HtmlFindExpressionElement",
+                        "__value": {
+                          "uniqueKey": "ZCTGpaU9XC12YjQqbJGzE0k90y4=",
+                          "NodeKind": 4,
+                          "TechnologyType": 1,
+                          "Name": "PSROLEGRANTVWROLENAMEText",
+                          "FindExpressions": [
+                            {
+                              "Key": 1,
+                              "Value": {
+                                "__type": "ArtOfTest.WebAii.Core.HtmlFindExpression",
+                                "__value": {
+                                  "Clauses": [
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "id=PSROLEGRANTVW_ROLENAME"
+                                      }
+                                    },
+                                    {
+                                      "__type": "ArtOfTest.WebAii.Core.HtmlFindClause",
+                                      "__value": {
+                                        "Clause": "tagname=input"
+                                      }
+                                    }
+                                  ],
+                                  "Constraints": [],
+                                  "ChainStops": []
+                                }
+                              }
+                            }
+                          ],
+                          "BackupSearchClause": "/html[1]/body[1]/form[1]/div[3]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/table[1]/tbody[1]/tr[1]/td[3]/div[1]/input[1]",
+                          "ImageSearchClauses": [],
+                          "DataBindingExpressions": {}
+                        }
+                      },
+                      "HtmlControlType": "ArtOfTest.WebAii.Controls.HtmlControls.HtmlInputText",
+                      "IsIndependent": false,
+                      "DomStateKey": "",
+                      "TechnologyType": 1,
+                      "Version": 200
+                    }
+                  }
+                },
+                "StepType": 4,
+                "LogMessageOnFailure": "",
+                "EditorType": "",
+                "DataBindingExpressions": {}
+              }
+            },
+            "Enabled": true,
+            "Order": 12,
+            "Id": "",
+            "StepState": 0,
+            "ContinueOnFailure": false,
+            "StepImageKey": "Check PSISA Access Modsytyxvjji.kf5",
+            "QcId": 0,
+            "QcVersionStamp": 0,
+            "Version": 200
+          }
+        }
+      ]
+    },
+    "IndependentDescriptors": [],
+    "HtmlDescription": "",
+    "SilverlightEnabled": false,
+    "IsSilverlightApp": false,
+    "SilverlightAppWebUrl": "",
+    "SilverlightAppLocalDirectory": "",
+    "SilverlightAppRecordLocal": false,
+    "SilverlightAppOriginUri": null,
+    "WpfAppPath": null,
+    "UseDefaultWpfAppPath": false,
+    "TestAssembly": "Post Pum Tasks.dll",
+    "TestAssemblyPath": "bin",
+    "TestClass": "",
+    "IsManual": false,
+    "ResourceFilePath": "INDEV - Check PSISA Access Mods.resx",
+    "ElementImageStoreFilePath": "INDEV - Check PSISA Access Mods.imgstore",
+    "HasCodeBehind": false,
+    "DataInfo": {
+      "__type": "ArtOfTest.Common.Design.Data.DataInfo",
+      "__value": {
+        "ConnectionString": "",
+        "DefaultToGrid": true,
+        "DataRange": "",
+        "LoadRecordsCount": null,
+        "DataTableName": "",
+        "DataProvider": "",
+        "DataEnabled": true,
+        "HasBuiltinGrid": false,
+        "DataType": 4,
+        "BuiltInData": null,
+        "BuiltInDocumentKey": null,
+        "TSQL": ""
+      }
+    },
+    "VSProperties": {},
+    "DeploymentItems": [],
+    "IsTestFragment": false,
+    "StopTestListOnFailure": false,
+    "InheritParentDataSource": false,
+    "BrowserType": 0,
+    "QcId": 0,
+    "QcFilePath": null,
+    "QcTestVersionStamp": 0,
+    "TestLinks": [],
+    "Description": "",
+    "Name": "INDEV - Check PSISA Access Mods",
+    "Owner": "",
+    "Path": "INDEV - Check PSISA Access Mods.tstest",
+    "Priority": 0,
+    "TestType": 0,
+    "UniqueId": "bc3955f6-73c5-4cd9-8ede-01db78b04011",
+    "Id": "bc3955f6-73c5-4cd9-8ede-01db78b04011",
+    "ProjectId": "720c5e63-3beb-434d-95c9-d56048d225fc",
+    "Version": 200
+  }
+}

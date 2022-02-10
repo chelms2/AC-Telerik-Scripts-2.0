@@ -1,0 +1,151 @@
+{
+  "__type": "ArtOfTest.WebAii.Design.Execution.TestList",
+  "__value": {
+    "TestListId": "eb4bb925-9681-4612-826b-f33b3c07f570",
+    "Id": "eb4bb925-9681-4612-826b-f33b3c07f570",
+    "TestListName": "ZAHRTST Pum Post-Upgrade Post-RetroFit",
+    "CreationDate": "2021-10-29T16:02:22-05:00",
+    "OwnerName": null,
+    "Settings": {
+      "__type": "ArtOfTest.WebAii.Core.Settings",
+      "__value": {
+        "ResponsiveWeb": {
+          "__type": "ArtOfTest.WebAii.Core.Settings+ResponsiveWebSettings",
+          "__value": {
+            "Width": 375,
+            "Height": 812,
+            "UserAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1"
+          }
+        },
+        "Web": {
+          "__type": "ArtOfTest.WebAii.Core.Settings+WebSettings",
+          "__value": {
+            "IsProfilingExecution": false,
+            "ExecutingBrowsers": [],
+            "UseMultiBrowserExecution": false,
+            "RecycleBrowser": false,
+            "AspNetDevServerPort": -1,
+            "LocalWebServer": 0,
+            "EnableUILessRequestViewing": false,
+            "WebAppPhysicalPath": "",
+            "DefaultBrowser": 7,
+            "EnableScriptLogging": false,
+            "BaseUrl": "",
+            "KillBrowserProcessOnClose": false,
+            "KillBrowsersBeforeStart": true,
+            "AutoCalibrateBrowsers": false,
+            "UseHttpProxy": false,
+            "EnableSilverlight": false,
+            "VerboseHttpProxy": false,
+            "SilverlightConnectTimeout": 60000,
+            "SilverlightApplicationPath": null,
+            "WebComponents": true
+          }
+        },
+        "Wpf": {
+          "__type": "ArtOfTest.WebAii.Core.Settings+WpfSettings",
+          "__value": {
+            "DefaultApplicationPath": null
+          }
+        },
+        "CreateLogFile": true,
+        "LogLocation": "C:\\WebAiiLog\\",
+        "QueryEventLogErrorsOnExit": false,
+        "LogAnnotations": false,
+        "SimulatedMouseMoveSpeed": 0.3,
+        "ExecuteInDevelopmentTests": false,
+        "WaitCheckInterval": 500,
+        "ElementWaitTimeout": 15000,
+        "SearchByImageFirst": false,
+        "ExecuteCommandTimeout": 20000,
+        "ExecutionDelay": 0,
+        "RerunFailedTests": false,
+        "UnexpectedDialogAction": 2,
+        "AnnotateExecution": false,
+        "AnnotationMode": 0,
+        "RecordingMode": 0,
+        "RecordingCodec": 0,
+        "RecordingScale": 100,
+        "RecordingFPS": 5,
+        "RecordingOutputLocation": "",
+        "RecordingSizeLimit": 0,
+        "XMultiMgr": true,
+        "ClientReadyTimeout": 60000,
+        "DisableDialogMonitoring": false,
+        "RunnerResponseTimeout": 0.0,
+        "EnableImageSearch": true,
+        "ElementImageSearchTimeout": 15000,
+        "ElementImageSearchDelay": 300,
+        "ScrollOnImageSearch": true
+      }
+    },
+    "Tests": [
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "fc2c2e7a-fc39-4c3c-88af-5c98b7a83c19",
+          "Path": "ZAHRTST - Portal Security Sync.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "76bca3ba-4dc5-4b65-9fe0-c5e7574d89b4",
+          "Path": "ZAHRTST - Navigation Collection Sync.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "82acf69e-f09a-4476-84e3-2d9425fa4d37",
+          "Path": "INDEV - Check IB Domains.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "6a2e146a-8965-41ba-9eca-7d4aa337ade4",
+          "Path": "INDEV - User Profile Change Service Operation.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "05bd7112-0b06-4516-8807-b9a05ce21042",
+          "Path": "ZAHRTST - ROLESYNCHEXT_MSG Set to Active.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "a24613e9-4fef-4bea-8a8c-b306d6c35c18",
+          "Path": "ZAHRTST - APP_MSG_ADMIN Uncheck QTR Workflow.tstest",
+          "PathType": 0
+        }
+      },
+      {
+        "__type": "ArtOfTest.WebAii.Design.Execution.TestInfo",
+        "__value": {
+          "Id": "bc3955f6-73c5-4cd9-8ede-01db78b04011",
+          "Path": "INDEV - Check PSISA Access Mods.tstest",
+          "PathType": 0
+        }
+      }
+    ],
+    "Filter": {
+      "__type": "ArtOfTest.WebAii.Design.Execution.Filter",
+      "__value": {
+        "Keys": [],
+        "Comparisons": [],
+        "Values": []
+      }
+    },
+    "ListType": 0,
+    "ProjectId": "720c5e63-3beb-434d-95c9-d56048d225fc"
+  }
+}
