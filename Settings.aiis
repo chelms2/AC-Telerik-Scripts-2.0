@@ -190,20 +190,8 @@
     "DefaultWPFApplication": null,
     "UseLegacySilverlightFindLogic": false,
     "ProjectGuid": "720c5e63-3beb-434d-95c9-d56048d225fc",
-    "SourceControlRepository": {
-      "__type": "Telerik.TestStudio.SourceControl.Git.TS.GitRepositoryInfo",
-      "__value": {
-        "RemotePath": "https://github.com/chelms2/AC-Telerik-Scripts.git",
-        "ServerInfo": {
-          "__type": "Telerik.TestStudio.SourceControl.Git.TS.GitServerInfo",
-          "__value": {
-            "ServerName": "https://github.com/chelms2/AC-Telerik-Scripts.git"
-          }
-        },
-        "ServerType": 2
-      }
-    },
-    "IsOnline": true,
+    "SourceControlRepository": null,
+    "IsOnline": false,
     "ProjectLanguage": 1,
     "ProjectReferences": [
       "System",

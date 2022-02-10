@@ -32,6 +32,48 @@
         {
           "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
           "__value": {
+            "Runtime ID": "c836b3f0-a93e-405a-a944-97b79970320f",
+            "Description": "Execute test 'Open ZBHRTST'",
+            "CustomDescription": null,
+            "Step": {
+              "__type": "ArtOfTest.WebAii.Design.IntrinsicTranslators.Descriptors.ExecuteTestActionDescriptor",
+              "__value": {
+                "WaitOnElementsTimeout": 0,
+                "UseStepWaitOnElementsTimout": false,
+                "WaitOnElements": false,
+                "SearchByImageFirst": 0,
+                "TestName": "Open ZBHRTST",
+                "TestPath": "Open ZBHRTST.tstest",
+                "TestUniqueId": "2215fd0b-0d2c-419a-8156-942c0d049d36",
+                "Pause": 0,
+                "RunsAgainstVersion": "",
+                "Constraints": {
+                  "__type": "ArtOfTest.Common.Design.Extensibility.Descriptors.DescriptorConstraints",
+                  "__value": {
+                    "ConstraintValues": {}
+                  }
+                },
+                "Elements": {},
+                "StepType": 4,
+                "LogMessageOnFailure": "",
+                "EditorType": "",
+                "DataBindingExpressions": {}
+              }
+            },
+            "Enabled": true,
+            "Order": 1,
+            "Id": "",
+            "StepState": 0,
+            "ContinueOnFailure": false,
+            "StepImageKey": "ZBHRTST - SYSAUDITr2i5qe0e.mwb",
+            "QcId": 0,
+            "QcVersionStamp": 0,
+            "Version": 200
+          }
+        },
+        {
+          "__type": "ArtOfTest.WebAii.Design.ProjectModel.AutomationStep",
+          "__value": {
             "Runtime ID": "f5bb5fe0-1f68-483e-8701-f9293fe2319d",
             "Description": "Wait for '600' msec.",
             "CustomDescription": null,
@@ -59,7 +101,7 @@
               }
             },
             "Enabled": true,
-            "Order": 1,
+            "Order": 2,
             "Id": "",
             "StepState": 0,
             "ContinueOnFailure": false,
@@ -101,7 +143,7 @@
               }
             },
             "Enabled": true,
-            "Order": 2,
+            "Order": 3,
             "Id": "",
             "StepState": 0,
             "ContinueOnFailure": false,
@@ -141,7 +183,7 @@
               }
             },
             "Enabled": true,
-            "Order": 3,
+            "Order": 4,
             "Id": "",
             "StepState": 0,
             "ContinueOnFailure": false,
@@ -183,7 +225,7 @@
               }
             },
             "Enabled": true,
-            "Order": 4,
+            "Order": 5,
             "Id": "",
             "StepState": 0,
             "ContinueOnFailure": false,
@@ -223,7 +265,7 @@
               }
             },
             "Enabled": true,
-            "Order": 5,
+            "Order": 6,
             "Id": "",
             "StepState": 0,
             "ContinueOnFailure": false,
@@ -268,7 +310,7 @@
               }
             },
             "Enabled": true,
-            "Order": 6,
+            "Order": 7,
             "Id": "",
             "StepState": 0,
             "ContinueOnFailure": false,
